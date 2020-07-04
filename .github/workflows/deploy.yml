@@ -10,3 +10,5 @@ jobs:
 
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
