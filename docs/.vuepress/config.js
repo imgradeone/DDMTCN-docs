@@ -19,6 +19,7 @@ module.exports = {
 
         sidebar: ['/player', '/moddev', '/mods']
       },
+    
       plugins: {
         "vuepress-plugin-auto-sidebar": {}
       }
