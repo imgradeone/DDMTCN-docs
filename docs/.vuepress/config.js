@@ -1,13 +1,13 @@
 module.exports = {
     title: 'DDLC 中文 Mod 分部',
-    description: 'Just playing around',
+    description: '好模板，好 Mod',
     themeConfig: {
-        // 添加导航栏
+
         nav: [
           { text: '主页', link: '/' },
-          { text: '玩家指引', link: '/player' },
-          { text: '开发者', link: '/moddev' },
-          { text: 'Mod 下载', link: '/mods' },
+          { text: '玩家指引', link: '/player/' },
+          { text: '开发者', link: '/moddev/' },
+          { text: 'Mod 下载', link: '/mods/' },
           {
             text: 'GitHub',
             items: [
@@ -16,7 +16,10 @@ module.exports = {
             ]
           }
         ],
-        // 为以下路由添加侧边栏
+
         sidebar: ['/player', '/moddev', '/mods']
+      },
+      plugins: {
+        "vuepress-plugin-auto-sidebar": {}
       }
   }
