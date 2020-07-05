@@ -14,3 +14,11 @@ features:
   details: 为 Mod 增彩，让 Mod 制作更快速
 footer: made by imgradeone
 ---
+
+::: warning 警告！！
+
+本站包含对 DDLC 的剧透，请务必通关原版 DDLC 后再访问本站。您可以访问 [DDLC.moe](https://ddlc.moe) 下载 DDLC，或前往 Steam 搜索 `Doki Doki Literature Club!` 下载
+
+**本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
+
+:::
