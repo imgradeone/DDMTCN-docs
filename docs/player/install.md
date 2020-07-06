@@ -1,5 +1,5 @@
 ---
-title: 安装 Mod
+title: 02. 安装 Mod
 sidebarDepth: 2
 ---
 
@@ -36,3 +36,8 @@ sidebarDepth: 2
 ## 接下来，安装 Mod
 
 安装 Mod 有多种途径，基本上逻辑相同。
+
+### 手动安装
+
+手动安装可能需要使用 7-zip 等解压软件.
+.

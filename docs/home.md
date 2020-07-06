@@ -21,3 +21,5 @@
 ## 关于 DDLC 中文 Mod 分部
 
 中文 Mod 分部是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。
+
+本站属于粉丝作品，遵循 Team Salvato IP Guidelines。
