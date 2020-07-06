@@ -1,5 +1,6 @@
 ---
 title: 01. 寻找 Mod
+autoPrev: README
 ---
 
 # 寻找 Mod
@@ -16,7 +17,15 @@ title: 01. 寻找 Mod
 
 [点此访问](http://ddlcmods.com/)
 
+## Reddit /r/DDLCmods
+
+Reddit 作为类似贴吧的、火热的外国社区，DDLCMods 区也会有许多优秀的 Mod，但和 DDLCMods.com 同理，你需要交通工具，同时内容也是以英文为主。
+
+[点此访问](https://www.reddit.com/r/DDLCMods)
+
 ## 百度贴吧 心跳心跳文学部吧
+
+作为中文社区，百度贴吧 心跳心跳文学部吧 会包含更多中文内容，如 Mod 汉化版资源。如果您的英文水平较差，您可以在这里找到 Mod 或者原游戏的汉化版本。
 
 [点此访问](https://tieba.baidu.com/f?kw=心跳文学部)
 
