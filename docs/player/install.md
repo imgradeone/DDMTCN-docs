@@ -29,7 +29,6 @@ macOS 用户请下载 `DDLC (Mac)`。
 如果需要关闭此功能，按下键盘的 `Command - +`（`⌘+`）或在顶栏找到 `Safari 浏览器` - `偏好设置`，取消勾选 `下载后打开“安全的”文件` 即可。
 :::
 
-
 > 游戏是免费游戏，在此处若赞助超过 10 美元即可下载 Fan Pack。
 
 如果太麻烦，你也可以点击[这里](https://teamsalvato.itch.io/ddlc)，操作同理。
@@ -62,6 +61,8 @@ macOS 用户请下载 `DDLC (Mac)`。
 
 如果 Mod 是 `.zip`、`.7z` 等格式的压缩文件，您需要解压后，将压缩包的内容丢入到 `/game` 文件夹，复制时一律覆盖即可。
 
+如果你使用 Steam 下载，请在游戏库中右键选中 DDLC，然后 `管理` - `浏览本地文件`，再执行上方操作。
+
 对于 macOS，您需要右键点击 `DDLC.app`，点击 `Show Package Contents`，转到 `Contents` > `Resources` > `autorun` > `game`，然后再执行上方安装 Mod 的操作。  
 （*UI 操作中文翻译待补充，希望有 Mac 的用户帮忙补一下*）
 
@@ -70,5 +71,19 @@ macOS 用户请下载 `DDLC (Mac)`。
 ### 使用 Doki Doki Mod Manager
 
 ::: warning 提示
-部分 Mod 可能不支持 DDMM。本文以英文界面为主。您可以在 `Options / 选项` - `Languages / 语言` 里设置 DDMM 语言为简体中文。
+部分 Mod 可能不支持 DDMM，遇到这种情况请向 DDMM 开发者反馈。本文以英文界面为主。您可以在 `Options / 选项` - `Languages / 语言` 里设置 DDMM 语言为简体中文。
+
+如果需要使用 Doki Doki Mod Manager，我们不建议从 Steam 下载游戏。
 :::
+
+首先，访问 DDMM 官网 [https://doki.space](https://doki.space)，点击 `Download`，根据系统选择相应版本。
+
+然后，运行安装包，等待安装。（近期新版 Windows DDMM 采用 Web 安装包，下载需要一定时间，请耐心等待）
+
+安装完成后，根据提示完成 DDMM 安装。
+
+接下来，选择主界面上的 `Install DDLC` / `安装 DDLC 及模组文件`，然后命名，在 `Mods` / `模组` 栏选择 `Mods isn't listed here` / `此处未列出的模组`，选择你下载的 Mod，然后安装即可。
+
+-------
+
+**Enjoy Your Mod!**
