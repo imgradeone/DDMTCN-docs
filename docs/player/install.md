@@ -1,5 +1,5 @@
 ---
-title: 02. 安装 Mod
+title: 安装 Mod
 autoPrev: moddiscover
 sidebarDepth: 2
 ---
@@ -83,6 +83,8 @@ macOS 用户请下载 `DDLC (Mac)`。
 安装完成后，根据提示完成 DDMM 安装。
 
 接下来，选择主界面上的 `Install DDLC` / `安装 DDLC 及模组文件`，然后命名，在 `Mods` / `模组` 栏选择 `Mods isn't listed here` / `此处未列出的模组`，选择你下载的 Mod，然后安装即可。
+
+接下来，启动 Mod，开始畅玩！
 
 -------
 

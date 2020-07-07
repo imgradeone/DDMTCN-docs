@@ -1,5 +1,5 @@
 ---
-title: 00. 玩家指引
+title: 玩家指引
 sidebarDepth: 1
 ---
 

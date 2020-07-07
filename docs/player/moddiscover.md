@@ -1,5 +1,5 @@
 ---
-title: 01. 寻找 Mod
+title: 寻找 Mod
 autoPrev: README
 ---
 
