@@ -26,6 +26,14 @@ title: 精选 Mod
 
 [来自 Dobby233Liu 的下一版本（仅中文）](https://github.com/Dobby233Liu/InsideTheDark)
 
+## 全真二周目模拟器【内容警告】（开发中）
+
+这是 DDLC 中文 Mod 模板的新 Demo，在这里，你可以体验游戏最心惊肉跳的地方，甚至可以收集成就（吓死能拿成就（x））。
+
+项目还在开发中，故游戏不完整。
+
+[项目 GitHub](https://github.com/imgradeone/Real2ndActEmulator)
+
 ## Monika After Story Mod
 
 Just Monika.  
