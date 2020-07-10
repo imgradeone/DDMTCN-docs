@@ -51,9 +51,9 @@ Just Monika.
 
 [Google 云端硬盘下载（英文）](https://drive.google.com/open?id=1efoDS34hklUjg3v_mRmYfDxhW03y2zdh)
 
-## Do Your Lift Club
+## Do You Lift Club
 
-这个 Mod 中，所有角色变成了猛♂男 —— Slavyori，Buffsuki，Yuronk，Monicules。反正非常沙雕就是了。
+这个 Mod 中，所有角色变成了苏维埃（）猛♂男 —— Slavyori，Buffsuki，Yuronk，Monicules。反正非常沙雕就是了。
 
 Mod 提供英文和法文版本。
 
