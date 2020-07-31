@@ -27,6 +27,7 @@ module.exports = {
         { text: '主页', link: '/' },
         { text: '玩家指引', link: '/player/' },
         { text: '开发者', link: '/moddev/' },
+        { text: 'IP Guidelines', link: '/ipguidelines' },
         { text: '下载',
           items: [
             { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplete-Chinese' },

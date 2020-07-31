@@ -12,7 +12,7 @@ features:
   details: 在超热门的 DDLC Mod 管理器里拓展天地
 - title: 特色功能
   details: 为 Mod 增彩，让 Mod 制作更快速
-footer: made by imgradeone | 本网站与 Team Salvato 无关
+footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关
 ---
 
 ::: warning 警告！！
@@ -21,4 +21,5 @@ footer: made by imgradeone | 本网站与 Team Salvato 无关
 
 **本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
 
+同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
 :::
