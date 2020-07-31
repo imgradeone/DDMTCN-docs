@@ -25,13 +25,7 @@ Reddit 作为类似贴吧的、火热的外国社区，DDLCMods 区也会有许�
 
 ## 百度贴吧
 
-作为中文社区，百度贴吧会包含更多中文内容，如 Mod 汉化版资源。如果您的英文水平较差，您可以在这里找到 Mod 或者原游戏的汉化版本。
-
-由于 DDLC 受到整治，原 心跳心跳文学部吧 已被封禁。
-
-[点此访问 teamsalvato 吧](https://tieba.baidu.com/f?kw=teamsalvato) | [部学文跳心跳心吧](https://tieba.baidu.com/f?kw=部学文跳心跳心) | [ddlc 吧](https://tieba.baidu.com/f?kw=ddlc)
-
-推荐[资源检索教程](https://tieba.baidu.com/p/6822592278)，[老吧帖子资源备份](https://tieba.baidu.com/p/6831515579)，包含更多内容。
+抱歉，但现在几乎所有与 DDLC 相关的贴吧已被百度封禁。R.I.P and `#PrayforDDLC`
 
 ## FANDOM DDLC Modding Wiki
 

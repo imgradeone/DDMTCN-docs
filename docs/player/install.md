@@ -12,6 +12,7 @@ sidebarDepth: 2
 ## 首先，下载 DDLC
 
 > 由于 Team Salvato 规定，Mod 里不可以同时包含 DDLC 文件，因此安装 Mod 前需要先自行下载原版 DDLC。
+> 下载后记得备份原版游戏文件，接下来你会频繁用到它的！同时也方便恢复原游戏 / 安装更多 Mod / 重装 Mod。
 
 我们提倡通过官方方式下载 DDLC。
 

@@ -53,10 +53,24 @@ Just Monika.
 
 ## Do You Lift Club
 
-这个 Mod 中，所有角色变成了苏维埃（）猛♂男 —— Slavyori，Buffsuki，Yuronk，Monicules。反正非常沙雕就是了。
+> 实际上这个不算 Mod
+
+这个 Fan Game 中，所有角色变成了苏维埃（）猛♂男 —— Slavyori，Buffsuki，Yuronk，Monicules。反正非常沙雕就是了。
 
 Mod 提供英文和法文版本。
 
 [官网](https://cykadev.com/dokidoki/)
 
 [Windows 英文](https://dl.cykadev.com/liftclub/en/DokiDokiLift-pc.zip) | [macOS 英文](https://dl.cykadev.com/liftclub/en/DokiDokiLift-mac.zip)
+
+## Salvation Mod
+
+Sayori 厨圣经。
+
+[从 MEGA 下载英文版](https://mega.nz/#!bCwESCaA!emn70pPnGeFWE_djaP0lTkPg2AYXRiaa7VOLMcsBnhc)
+
+## Summertime Mod
+
+完全颠覆 DDLC 游戏机制与 UI，不含恐怖要素，愉悦清新的 Mod
+
+[Mod 官网（？）](http://ddlcmods.com/summertime)
