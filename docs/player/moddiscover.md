@@ -21,7 +21,7 @@ autoPrev: README
 
 Reddit 作为类似贴吧的、火热的外国社区，DDLCMods 区也会有许多优秀的 Mod，但和 DDLCMods.com 同理，你需要交通工具，同时内容也是以英文为主。
 
-[点此访问](https://www.reddit.com/r/DDLCMods)
+[点此访问](https://www.reddit.com/r/DDLCMods) | [Mod 集合区](https://www.reddit.com/r/DDLCMods/wiki/modlist)
 
 ## 百度贴吧
 

@@ -73,4 +73,26 @@ Sayori 厨圣经。
 
 完全颠覆 DDLC 游戏机制与 UI，不含恐怖要素，愉悦清新的 Mod
 
+> 但 Mod 本身有版权问题
+
 [Mod 官网（？）](http://ddlcmods.com/summertime)
+
+## Sayori Says No to Suicide Mod
+
+是个类似公益广告的 Mod，讲述如何帮助身边的抑郁症患者。该 Mod 获得 Reddit /r/DDLCMods Best Mods of 2019 中的三个奖项：
+
+- Best Sayori Mod Runner-up
+- Best Lighthearted Mod Runner-up
+- Most Innovative/Unique Runner-up
+
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/aduk6l/sayori_says_no_to_suicide_a_psa_download_link_in)
+
+## Magical Literary Heroine Natsuki Saves The Literature Club Mod
+
+名字很长，但是个优秀的 Mod。讲述了 Natsuki 和你为了改变原游戏中悲惨故事而修改代码的事情，交互性极强。该 Mod 获得 Reddit /r/DDLCMods Best Mods of 2019 中的三个奖项：
+
+- Best Natsuki Mod 第一名
+- Mod of the Year 2019 Runner-up
+- Most Innovative/Unique 第一名
+
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the)
