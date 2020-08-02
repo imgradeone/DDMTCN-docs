@@ -54,5 +54,38 @@ DDLC 使用 Ren'Py 这款 awesome 的视觉小说引擎进行开发，因此制�
 
 最后，在 Ren'Py SDK 里启动工程，如果正常运行，恭喜，你现在可以准备开发 Mod 了！
 
-## 合适的文本编辑器
+## 合适的文本 / 代码编辑器
 
+只有使用合适的编辑器，才能让你的写代码体验更加舒适。这个“合适”其实是一个很主观的概念，**只要你觉得合适，那它就是合适。** ~~（所以就算你用 Windows 自带的记事本去写 Ren'Py 脚本，我也不拦你（（（）~~
+
+我个人使用的是 [Visual Studio Code](https://code.visualstudio.com)，是微软出的一款很 awesome 的编辑器，在 Marketplace 安装了 [Ren'Py 高亮插件](https://marketplace.visualstudio.com/items?itemName=LuqueDaniel.languague-renpy)后，写 Ren'Py 脚本特别舒服。  
+如果你不希望微软用什么 Telemetry 来收集你的隐私，或者你抵制微软却又很想用 VS Code，你也可以试试 [VSCodium](https://vscodium.com)，是去除了微软要素的 VS Code，尊重隐私且更尊重开源社区。~~（GNU 教徒可以试试？）~~
+
+当然，还有其他文本 / 代码编辑器，比如 [Atom](https://atom.io/)、[Sublime Text（需付费，但可长期评估）](https://www.sublimetext.com)，你都可以选用，或者不必迁移，直接使用你最喜欢的编辑器去写 Mod。
+
+~~（其实你拿 Vim / Emacs 写，我都没意见，只是很麻烦（（（~~
+
+## 合适的 Git GUI
+
+> 命令行大佬请直接忽略这一节  
+> （前提是你可能有意开源你的 Mod，无意的话你也可以使用 Private 仓库）
+
+### GitKraken（半付费）
+
+GitKraken 虽然并不是我常用的 Git GUI，但是它非常爽。标签系统让你更快切换多个 Repo，一个视角尽览各个 commit，功能很齐全，甚至内置了编辑器（虽然这个功能某些情况下要付费）。
+
+对于 GitHub 个人 / 团队用户来说，这个客户端完全够用，且**基本上免费**，不用担心太多问题。支持 Windows、macOS、Linux，且支持 32 位 Windows 系统。
+
+~~当然给好朋友看你那一排花里胡哨的 commit 列表也挺 awesome 的~~
+
+[官网](https://www.gitkraken.com)
+
+### GitHub Desktop
+
+GitHub Desktop 是一款简洁的 Git GUI，如果你使用 GitHub，且不太熟悉 Git，可以试一下。它包含了你所需要的 Git 功能，也对 GitHub 有更好的支持，简单易懂，几个傻瓜式操作就完事。
+
+支持 Windows 和 macOS，不支持 Linux。
+
+[官网](https://desktop.github.com) （但不保证下载得了 XD）
+
+### Sublime Merge
