@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'DDLC 中文 Mod 分部',
+    title: 'DokiMod',
     description: '简单好用的 Mod 模板，助你快速制作属于自己的 Mod',
     plugins: {
       "vuepress-plugin-auto-sidebar": {

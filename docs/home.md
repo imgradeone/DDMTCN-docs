@@ -1,14 +1,22 @@
 # 主页
 
-这里是 DDLC 中文 Mod 分部的官方文档！
+这里是 DokiMod 的官方文档！
 
 ::: warning 警告！！
 
-本站包含对 DDLC 的剧透，请务必通关原版 DDLC 后再访问本站。您可以访问 [DDLC.moe](https://ddlc.moe) 下载 DDLC，或前往 Steam 搜索 `Doki Doki Literature Club!` 下载
+本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 [DDLC.moe](https://ddlc.moe) 下载 DDLC，或前往 Steam 搜索 `Doki Doki Literature Club!` 下载
 
 **本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
 
 同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
+:::
+
+::: danger 严正（？）声明！！！
+
+本站仅讨论与 DDLC 原作本身**基本无关**的内容，虽然涉及剧透，但**不内置任何恐怖、自残、自杀内容**！请放心浏览！
+
+本站主要讨论 Mod 开发与分享，如果发现任何不适宜内容，请通过邮箱联系站长（imgradeone@outlook.com），或[在 GitHub Issues 区告诉我们](https://github.com/imgradeone/DDMTCN-docs/issues)，我们将尽快整改。
+
 :::
 
 ## [我是玩家](player/README.md)
@@ -19,8 +27,8 @@
 
 开始进入教程，了解 DDLC Mod 的制作。
 
-## 关于 DDLC 中文 Mod 分部
+## 关于 DokiMod
 
-中文 Mod 分部是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。
+DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。
 
 本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。

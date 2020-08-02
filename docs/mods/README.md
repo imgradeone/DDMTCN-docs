@@ -6,9 +6,12 @@ title: 精选 Mod
 
 这里整合了由 imgradeone 挑选的 Mod，不论是否使用 DDLC 中文 Mod 模板，不论语言。
 
-> 本站不是 Mod 的镜像站，不提供原版 Mod 和原版游戏的百度网盘 / 蓝奏云等网盘下载链接。请支持原作者。
-> 链接均为官方链接。
-> 我们也不对 Mod 中的高能、恐怖、惊吓内容负责，带 【内容警告】 的请慎重下载。
+> 本站不是 Mod 的镜像站，不提供原版 Mod 和原版游戏的百度网盘 / 蓝奏云等网盘镜像下载链接。请支持原作者。  
+> 链接均为官方链接。  
+
+::: danger 警告！！！
+我们也不对 Mod 中的高能、恐怖、惊吓内容负责，带 【内容警告】 的 Mod 请慎重下载。  
+:::
 
 ## 社区汉化版【内容警告】
 
@@ -17,22 +20,6 @@ title: 精选 Mod
 [Steam 社区原帖](https://steamcommunity.com/sharedfiles/filedetails/?id=1176221672)（必看，出事了的话汉化作者和本站站长均不负责）
 
 [百度网盘下载 提取码 gr2c](https://pan.baidu.com/s/1pMLdGKV) | [Google 云端硬盘下载](http://drive.google.com/file/d/1mfeB-lRr8GNwuKhQ-AvXdeqFiAqIZf7u/view?usp=sharing)
-
-## Inside The Dark Mod【内容警告】
-
-这个 Mod 是 imgradeone 在刚刚接触 DDLC Mod 时的试作品，纯属高能播放器，现在处于咕咕咕状态。有中文、英文双版。
-
-[项目 GitHub](https://github.com/imgradeone/InsideTheDark)
-
-[来自 Dobby233Liu 的下一版本（仅中文）](https://github.com/Dobby233Liu/InsideTheDark)
-
-## 全真二周目模拟器【内容警告】（开发中）
-
-这是 DDLC 中文 Mod 模板的新 Demo，在这里，你可以体验游戏最心惊肉跳的地方，甚至可以收集成就（吓死能拿成就（x））。
-
-项目还在开发中，故游戏不完整。
-
-[项目 GitHub](https://github.com/imgradeone/Real2ndActEmulator)
 
 ## Monika After Story Mod
 
@@ -96,3 +83,12 @@ Sayori 厨圣经。
 - Most Innovative/Unique 第一名
 
 [Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the)
+
+## 全真二周目模拟器【内容警告】（开发中）
+
+这是 DDLC 中文 Mod 模板的新 Demo，在这里，你可以体验游戏最心惊肉跳的地方，甚至可以收集成就（吓死能拿成就（x））。
+
+项目还在开发中，故游戏不完整。
+
+[项目 GitHub](https://github.com/imgradeone/Real2ndActEmulator)
+
