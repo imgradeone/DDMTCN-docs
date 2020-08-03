@@ -63,6 +63,8 @@ DDLC 使用 Ren'Py 这款 awesome 的视觉小说引擎进行开发，因此制�
 
 当然，还有其他文本 / 代码编辑器，比如 [Atom](https://atom.io/)、[Sublime Text（需付费，但可长期评估）](https://www.sublimetext.com)，你都可以选用，或者不必迁移，直接使用你最喜欢的编辑器去写 Mod。
 
+顺便，Atom 其实是 Ren'Py 7 官方推荐的编辑器，原生支持 Ren'Py 脚本高亮。
+
 ~~（其实你拿 Vim / Emacs 写，我都没意见，只是很麻烦（（（~~
 
 ## 合适的 Git GUI
@@ -74,7 +76,9 @@ DDLC 使用 Ren'Py 这款 awesome 的视觉小说引擎进行开发，因此制�
 
 GitKraken 虽然并不是我常用的 Git GUI，但是它非常爽。标签系统让你更快切换多个 Repo，一个视角尽览各个 commit，功能很齐全，甚至内置了编辑器（虽然这个功能某些情况下要付费）。
 
-对于 GitHub 个人 / 团队用户来说，这个客户端完全够用，且**基本上免费**，不用担心太多问题。支持 Windows、macOS、Linux，且支持 32 位 Windows 系统。
+对于 GitHub 个人 / 团队，且**不使用私有仓库（Private Repo）**的用户来说，这个客户端完全够用，且**基本上免费**，不用担心太多问题。
+
+支持 Windows、macOS、Linux，且支持 32 位 Windows 系统。
 
 ~~当然给好朋友看你那一排花里胡哨的 commit 列表也挺 awesome 的~~
 
@@ -88,4 +92,22 @@ GitHub Desktop 是一款简洁的 Git GUI，如果你使用 GitHub，且不太�
 
 [官网](https://desktop.github.com) （但不保证下载得了 XD）
 
-### Sublime Merge
+### Sublime Merge（付费，但可长期试用）
+
+Sublime Merge 是一款来自 Sublime Text 开发者的 Git GUI，侧重于提供 Git 命令行的原始体验（借助命令面板）。UI 十分简洁、易用，有种 macOS 的即视感，也有类似 GitKraken 的 commit 关系图。
+
+支持 Windows、macOS、Linux。
+
+[官网](https://www.sublimemerge.com)
+
+----------
+
+准备完这些后，基本上可以开始你的 Mod 编写了。
+
+## 最后的准备
+
+将模板文件夹重命名为你想要的工程名（建议英文），接下来打开 Ren'Py SDK。
+
+下文的开发将假设你使用简体中文版 Ren'Py SDK 界面，所以，点击 `preferences`，将 Language 更改为 `Simplified Chinese`。
+
+接下来，翻到下一篇文章，开始 Mod 开发吧！
