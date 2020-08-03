@@ -15,7 +15,7 @@ autoPrev: prepare
 
 你应该会看到这样一个文件：
 
-```rpy
+```renpy
 # /game/script.rpy
 
 label start:
@@ -70,7 +70,7 @@ label endgame(pause_length=4.0):
 
 而你真正需要修改的，是脚本的第 22 行。（1.2 模板正式版则为 26 行）
 
-```rpy
+```renpy
 # /game/script.rpy - line 22-30
 
     # 确定好 label，然后改动下面几行
@@ -87,7 +87,7 @@ label endgame(pause_length=4.0):
 
 将这几行直接修改为以下内容，注意开头的 4 个空格缩进：
 
-```rpy
+```renpy
     call meet_monika
 ```
 
@@ -97,7 +97,7 @@ label endgame(pause_length=4.0):
 
 然后输入以下内容：
 
-```rpy
+```renpy
 # /game/meet_monika.rpy
 label meet_monika:
     
