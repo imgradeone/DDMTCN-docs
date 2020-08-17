@@ -16,3 +16,15 @@ DDMM 识别的是游戏的标题栏和一些参数，但汉化补丁是基于原
 对于 DDMM，您可以选择相应 Mod，在 `设置` 中选择 `存档`，然后再次启动游戏，选择您下载的新版本 Mod，即可。
 
 非 DDMM 用户建议新建一个 Mod 文件夹，并在那里更新 Mod。
+
+## 我安装的 Mod 需要删除原有存档，可是存档位置在哪里？
+
+Windows 系统：`C:\Users\<你的系统用户名>\AppData\Roaming\RenPy\DDLC-1454445547\`  
+或者 `%APPDATA%\RenPy\DDLC-1454445547\`
+
+macOS 系统：`$HOME/Libary/RenPy/DDLC-1454445547/`
+
+Linux 系统：`$HOME/.renpy/DDLC-1454445547/`  
+或者 `您的主目录/.renpy/DDLC-1454445547/`
+
+当然，遇到这种情况，我更建议使用 Doki Doki Mod Manager，可以不影响多个 Mod 的共存。

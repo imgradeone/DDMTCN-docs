@@ -11,7 +11,7 @@ sidebarDepth: 2
 
 ## 首先，下载 DDLC
 
-> 由于 Team Salvato 规定，Mod 里不可以同时包含 DDLC 文件，因此安装 Mod 前需要先自行下载原版 DDLC。
+> 由于 Team Salvato 规定，Mod 里不可以同时包含 DDLC 文件，因此安装 Mod 前需要先自行下载原版 DDLC。  
 > 下载后记得备份原版游戏文件，接下来你会频繁用到它的！同时也方便恢复原游戏 / 安装更多 Mod / 重装 Mod。
 
 我们提倡通过官方方式下载 DDLC。
@@ -72,7 +72,7 @@ macOS 用户请下载 `DDLC (Mac)`。
 ### 使用 Doki Doki Mod Manager
 
 ::: warning 提示
-部分 Mod 可能不支持 DDMM，遇到这种情况请向 DDMM 开发者反馈。本文以英文界面为主。您可以在 `Options / 选项` - `Languages / 语言` 里设置 DDMM 语言为简体中文。
+部分 Mod 可能不支持 DDMM，遇到这种情况请向 DDMM 开发者反馈。您可以在 `Options / 选项` - `Languages / 语言` 里设置 DDMM 语言为简体中文。
 
 如果需要使用 Doki Doki Mod Manager，我们不建议从 Steam 下载游戏。
 :::
@@ -85,7 +85,7 @@ macOS 用户请下载 `DDLC (Mac)`。
 
 接下来，选择主界面上的 `Install DDLC` / `安装 DDLC 及模组文件`，然后命名，在 `Mods` / `模组` 栏选择 `Mods isn't listed here` / `此处未列出的模组`，选择你下载的 Mod，然后安装即可。
 
-接下来，启动 Mod，开始畅玩！
+接下来，启动 Mod，开始畅玩，就这么简单！
 
 -------
 

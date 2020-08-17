@@ -6,7 +6,8 @@ module.exports = {
         titleMap: {
           "moddev": "Mod 开发",
           "player": "玩家指引",
-          "mods": "精选 Mod"
+          "mods": "精选 Mod",
+          "extension": "高级拓展"
         }
       },
     },
@@ -28,6 +29,7 @@ module.exports = {
         { text: '玩家指引', link: '/player/' },
         { text: '开发者', link: '/moddev/' },
         { text: 'IP Guidelines', link: '/ipguidelines' },
+        { text: '更新历史', link: '/releases/' },
         { text: '下载',
           items: [
             { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplete-Chinese' },

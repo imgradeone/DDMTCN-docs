@@ -32,3 +32,9 @@
 DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。
 
 本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。
+
+## 友情链接
+
+[【中文非官方】DDLC 论坛](https://forum.nothamor.cn/)
+
+[Doki Doki Mod Manager](https://doki.space)
