@@ -35,6 +35,6 @@ DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod
 
 ## 友情链接
 
-[【中文非官方】DDLC 论坛](https://forum.nothamor.cn/)
+[【中文非官方】DDLC 论坛](https://ddlc.icu/)
 
 [Doki Doki Mod Manager](https://doki.space)
