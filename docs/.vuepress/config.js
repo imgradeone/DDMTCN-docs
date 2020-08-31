@@ -7,6 +7,7 @@ module.exports = {
           "moddev": "Mod 开发",
           "player": "玩家指引",
           "mods": "精选 Mod",
+          "releases": "版本更新历史",
           "extension": "高级拓展"
         }
       },
@@ -33,7 +34,7 @@ module.exports = {
         { text: '更新历史', link: '/releases/' },
         { text: '下载',
           items: [
-            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
+            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases' },
             { text: 'DDLC Mod', link: '/mods/' },
             { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
           ]
