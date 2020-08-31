@@ -14,6 +14,7 @@ module.exports = {
 
     head: [
       ['meta', { name: 'theme-color', content: '#fa4694' }],
+      ['link', { rel: 'icon', href: '/logo_128x128.png' }]
     ],
 
     themeConfig: {
@@ -32,7 +33,7 @@ module.exports = {
         { text: '更新历史', link: '/releases/' },
         { text: '下载',
           items: [
-            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplete-Chinese' },
+            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
             { text: 'DDLC Mod', link: '/mods/' },
             { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
           ]
@@ -40,7 +41,7 @@ module.exports = {
         {
           text: 'GitHub',
           items: [
-            { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplete-Chinese' },
+            { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
             { text: '文档', link: 'https://github.com/imgradeone/DDMTCN-Docs' }
           ]
         }

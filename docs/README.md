@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /logo_vertical.png
 heroText: DokiMod
 tagline: 为 Mod 创作赋能。
 actionText: 开始 →
