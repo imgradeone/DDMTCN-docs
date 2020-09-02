@@ -65,11 +65,11 @@ title: IP Guidelines
 
 为了您的方便，下面是一个免责声明示例：
 
-> This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed. You can download Doki Doki Literature Club at: http://ddlc.moe
+> This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed. You can download Doki Doki Literature Club at: https://ddlc.moe
 
 译者提供参考译文：
 
-> 本游戏是 Doki Doki Literature Club 的粉丝游戏，与 Team Salvato 无关。本游戏应在通关原版游戏后再进行游玩。您可以在 https://ddlc.moe 或者 Steam 免费下载 Doki Doki Literature Club 。
+> 本游戏是 Doki Doki Literature Club 的粉丝游戏，与 Team Salvato 无关。本游戏应在通关原版游戏后再进行游玩。您可以在 https://ddlc.moe 或者 Steam 免费下载 Doki Doki Literature Club。
 
 ## Mod
 上方对于粉丝游戏的指南同时也适用于 Mod，即对原版 DDLC 游戏的修改。Mod 指任何**修改 DDLC 官方原版游戏**的游戏或工程，例如增加 / 替换代码、音乐、剧本或其他资源。

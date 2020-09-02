@@ -19,14 +19,16 @@ DDLC 使用 Ren'Py 这款 awesome 的视觉小说引擎进行开发，因此制�
 
 > 由于模板原因，中文模板暂不支持使用 Ren'Py SDK 7 进行开发，您可能需要考虑使用[这款改进过的英文模板](https://github.com/GanstaKingofSA/DDLCModTemplate2.0)，并自行配置，使字体支持中文。
 
-**您可以点击 [这里](https://www.renpy.org/release/6.99.12) 前往 Ren'Py 官网并获取 Ren'Py SDK 6.99.12.4。** 选择版本时**直接点击绿色的按钮**即可。
+**您可以点击 [这里](https://www.renpy.org/release/6.99.12) 前往 Ren'Py 官网并获取 Ren'Py SDK 6.99.12.4。**
+
+选择版本时**直接点击绿色的按钮**即可。
 
 > 一定要细说的话，Windows 系统下载 `.7z.exe` 版本，macOS 则为 `.dmg`，Linux 为 `.tar.bz2`。不确定的话可以直接下载 `.zip` 版本。  
 > 顺便，Android 和 iOS 等手机端用户就别凑热闹了，Mod 的调试只能使用电脑（当然可以拿手机先写代码）（（（
 
 ## DDLC 游戏文件
 
-既然是 DDLC Mod，肯定需要 DDLC 的文件才可以进行调试。
+既然是 DDLC Mod，肯定需要 DDLC 的文件才可以进行调试。 ~~不然写个锤子的 Mod~~
 
 前往 [DDLC.moe](https://ddlc.moe) 或者 Steam 下载 DDLC 游戏本体，解压，**不要打开游戏**，先备用。
 
@@ -109,7 +111,7 @@ Sublime Merge 是一款来自 Sublime Text 开发者的 Git GUI，侧重于提�
 
 ----------
 
-准备完这些后，基本上可以开始你的 Mod 编写了。
+准备完这些后，就可以开始你的 Mod 编写与开发了。
 
 ## 最后的准备
 

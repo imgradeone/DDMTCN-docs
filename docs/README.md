@@ -31,7 +31,7 @@ footerWrap:
     details: 更多人水群（
   - title: AntDocs VuePress 主题
     link: https://antdocs.seeyoz.cn
-    details: 咱的新主题哦
+    details: DokiMod 的新主题哦
   - title: MTR
     link: https://mtrstatic.ga
     details: 永远滴神
@@ -71,6 +71,8 @@ footerWrap:
   - title: Monika!
     link: https://twitter.com/lilmonix3
     details: Just Monika!!!
+  - title: DDLC 官方周边商店（Shopify，海外）
+    link: https://ddlcstore.com
 footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages
 ---
 

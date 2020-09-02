@@ -15,7 +15,8 @@ module.exports = {
     theme: "antdocs",
     head: [
       ['meta', { name: 'theme-color', content: '#fa4694' }],
-      ['link', { rel: 'icon', href: '/logo_128x128.png' }]
+      ['link', { rel: 'icon', href: '/logo_128x128.png' }],
+      ['meta', { name: 'keywords', content: 'ddlc,ddlc mod,ddlcmod,doki doki literature club,doki doki literature club mods,dokimod,文学部,文学部mod,游戏mod开发,心跳文学部,心跳文学部mod,mod开发' }]
     ],
     base: "/",
     themeConfig: {
@@ -26,6 +27,7 @@ module.exports = {
       smoothScroll: true,
       editLinkText: '前往 GitHub 编辑此页面',
       lastUpdated: '上次更新于',
+      logo: '/logo_128x128.png',
       nav: [
         { text: '主页', link: '/' },
         { text: '玩家指引', link: '/player/' },
