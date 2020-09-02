@@ -84,6 +84,10 @@ Sayori 厨圣经。
 
 [Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the)
 
+## Blinky Flappers!
+
+GitHub 上的 Mod，角色拥有了神态动画。
+
 ## 全真二周目模拟器【内容警告】（开发中）
 
 这是 DDLC 中文 Mod 模板的新 Demo，在这里，你可以体验游戏最心惊肉跳的地方，甚至可以收集成就（吓死能拿成就（x））。
