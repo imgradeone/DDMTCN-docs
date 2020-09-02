@@ -12,6 +12,65 @@ features:
   details: 在超热门的 DDLC Mod 管理器里获得成就加持
 - title: 特色功能
   details: 为 Mod 增彩，让 Mod 制作更快速
+
+footerColumn: 4
+footerWrap: 
+- headline: 友情链接
+  items:
+  - title: 非官方 DDLC 中文论坛
+    link: https://ddlc.icu
+    details: 啊这（
+  - title: Doki Doki Mod Manager
+    link: https://doki.space
+    details: 超强的 DDLC Mod 管理器
+  - title: Monika After Story Mod
+    link: https://monikaafterstory.com
+    details: DDLC Mod 界的先辈
+  - title: DDLC 中文论坛 TG 群
+    link: https://t.me/DDLC_cn_tg
+    details: 更多人水群（
+  - title: AntDocs VuePress 主题
+    link: https://antdocs.seeyoz.cn
+    details: 咱的新主题哦
+  - title: MTR
+    link: https://mtrstatic.ga
+    details: 永远滴神
+- headline: DokiMod 官方社群 / 平台
+  items:
+  - title: GitHub
+    link: https://github.com/DokiMod
+  - title: Telegram 频道
+    link: https://t.me/DDLCModCN
+  - title: Telegram 群组
+    link: https://t.me/DokiModCNGroup
+- headline: 开发必看 / 必下载系列
+  items:
+  - title: Ren'Py SDK 6.99.12
+    link: https://www.renpy.org/release/6.99.12
+    details: 永远滴神
+  - title: DDLC 本体
+    link: https://ddlc.moe
+    details: 不下本体的话还开发个锤子（
+  - title: IP Guidelines 中文翻译
+    link: /ipguidelines
+    details: 看了不会踩坑
+- headline: 献给原作
+  items:
+  - title: Team Salvato
+    link: https://teamsalvato.com
+    details: 美国佬也能做日式游戏
+  - title: Satchely
+    link: https://satchely.deviantart.com/
+    details: 画老婆的（
+  - title: Velinquent
+    link: https://www.pixiv.net/member.php?id=17385446
+    details: 画背景的
+  - title: Dan Salvato
+    link: https://twitter.com/dansalvato
+    details: Dan 鸽本鸽（（（
+  - title: Monika!
+    link: https://twitter.com/lilmonix3
+    details: Just Monika!!!
 footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages
 ---
 

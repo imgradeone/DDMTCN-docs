@@ -2,10 +2,11 @@
 title: IP Guidelines
 ---
 
+# IP Guidelines
+
 > 中文版本仅便于理解，且翻译不一定准确，一切请以英文原版为准。原文可访问 [这里](http://teamsalvato.com/ip-guidelines/) 查看。  
 > 译者：imgradeone
 
-# IP Guidelines
 本页面详细介绍了与 Doki Doki Literature Club (DDLC) 相关的粉丝内容创作指南。本指南将解释对于 DDLC 粉丝内容，你允许做的，以及不允许做的事。
 
 ## 免责声明

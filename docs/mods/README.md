@@ -72,7 +72,9 @@ Sayori 厨圣经。
 - Best Lighthearted Mod Runner-up
 - Most Innovative/Unique Runner-up
 
-[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/aduk6l/sayori_says_no_to_suicide_a_psa_download_link_in)
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/aduk6l/sayori_says_no_to_suicide_a_psa_download_link_in) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=235)（[下载链接](https://quqi.avyeld.com/s/4495569/5Dk3kY3JeRD4Z1ay)）
+
+> 请注意，Sayori Says No to Suicide Mod 的社区汉化版作者表明， **如需制作该汉化版的实况视频，必须取得授权，并提及全汉化者名单。**
 
 ## Magical Literary Heroine Natsuki Saves The Literature Club Mod
 
@@ -82,11 +84,13 @@ Sayori 厨圣经。
 - Mod of the Year 2019 Runner-up
 - Most Innovative/Unique 第一名
 
-[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the)
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=217) （[下载链接](https://pan-yz.chaoxing.com/external/m/file/497856730222407680)，别问为什么是五三（x））
 
 ## Blinky Flappers!
 
 GitHub 上的 Mod，角色拥有了神态动画。
+
+[GitHub 项目](https://github.com/yamamotoNEW/Blinky-Flappers-MOD)
 
 ## 全真二周目模拟器【内容警告】（开发中）
 

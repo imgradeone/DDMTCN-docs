@@ -1,6 +1,6 @@
 module.exports = {
     title: 'DokiMod',
-    description: '简单好用的 Mod 模板，助你快速制作属于自己的 Mod',
+    description: '为 Mod 创作赋能。',
     plugins: {
       "vuepress-plugin-auto-sidebar": {
         titleMap: {
@@ -12,12 +12,12 @@ module.exports = {
         }
       },
     },
-
+    theme: "antdocs",
     head: [
       ['meta', { name: 'theme-color', content: '#fa4694' }],
       ['link', { rel: 'icon', href: '/logo_128x128.png' }]
     ],
-
+    base: "/",
     themeConfig: {
       docsRepo: 'imgradeone/DDMTCN-Docs',
       docsDir: 'docs',
