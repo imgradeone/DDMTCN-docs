@@ -1,5 +1,5 @@
 ---
-title: 避坑指南
+title: 创作者避坑指南
 autoGroup-2: 重要信息
 sidebarDepth: 2
 ---
@@ -10,9 +10,9 @@ sidebarDepth: 2
 本页面仍在施工，暂不能提供完整内容，请见谅。
 :::
 
-开发 Mod 时会有许多坑，此时请务必要注意。
+作为创作者，无论是开发 Mod 还是绘画、视频等，在创作时会有许多坑，此时请务必要注意。
 
-无论如何，你必须记住一点：开发 Mod 时必须遵守 Team Salvato IP Guidelines。
+无论如何，你必须记住一点：进行 DDLC 粉丝作品创作时必须遵守 Team Salvato IP Guidelines。
 
 ## Mod 分发
 
@@ -37,7 +37,42 @@ sidebarDepth: 2
 
 **不能。** 首先，这无异于上一点将游戏打包为“绿色版”游戏的行为；其次，上架 Steam 等商店也会对 Team Salvato 造成不必要的麻烦。
 
-Team Salvato 曾经[在博客上说](http://teamsalvato.com/blog/regarding-ddlc-on-mobile-devices/)，之前 **上架到商店的** 非官方 Android 版的移植已经给他们造成了许多麻烦。有一堆人去问这些移植版是否有授权，
+Team Salvato 曾经[在博客上说](http://teamsalvato.com/blog/regarding-ddlc-on-mobile-devices/)，之前 **上架到商店的** 非官方 Android 版的移植已经给他们造成了许多麻烦。有一堆人去问这些移植版是否有授权，还有人向 Team Salvato 官方反馈这些非官方移植版的 bug，这无形中加重了原作的负担。（此处不讨论营利问题）
+
+请不要把 Mod 上架到任何游戏商店。如果你需要让更多人了解你的 Mod，你可以考虑：
+
+1. [去中文非官方 DDLC 论坛宣传你的 Mod](https://ddlc.icu)
+1. [在 DDLCMods.com 提交原创 Mod 收录申请](http://ddlcmods.com/mod-submission-form/)
+1. [问 MTR，让 MTR 帮你托管你的 Mod](https://mtrcdn.tk)
+1. and more...
+
+## 资源使用
+
+### 我不做 Mod，我就想做一个绿色版 DDLC 粉丝游戏，那么能不能使用 DDLC 官方素材？
+
+**不能。** 如果你想在自己做的粉丝游戏中使用 DDLC 官方素材，那么你只能把这东西做成 Mod。如果你真的想做一个“绿色版” DDLC 粉丝游戏，且又想要原游戏角色的话，请考虑另请画师。
+
+### 我可不可以直接上传 DDLC 的官方素材？
+
+如果你是闲得没事传，那么不可以。如果是用于某个粉丝项目（如帮助开发 Mod 的资源素材表），那么可以。
+
+<!-- ### 我做的东西和 DDLC 鸟关系也没有，但是我就是想用一下 DDLC 的 BGM，可以吗？
+
+**不行。** 在这里，我先自我反省一下。
+
+一般情况下， -->
+
+## 赞助
+
+### 我做 Mod，可以接受赞助吗？
+
+**没问题！** 在你的 Mod 主页上加一个赞助链接 / 二维码即可，只要不与 Mod 分发相关，赞助就不会有问题。
+
+但是，还有一些需要注意的地方，下面细说。
+
+### 既然我整了赞助，那么我可以 **在游戏 / Mod 里面** 内置赞助链接，或者鼓励玩家打钱吗？
+
+**不能。** 内置赞助链接 / 鼓励玩家打钱和广告没啥区别。
 
 ::: warning 提示
 本页面仍在施工，暂不能提供完整内容，请见谅。

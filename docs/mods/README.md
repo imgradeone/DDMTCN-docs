@@ -7,7 +7,8 @@ title: 精选 Mod
 这里整合了由 imgradeone 挑选的 Mod，不论是否使用 DDLC 中文 Mod 模板，不论语言。
 
 > 本站不是 Mod 的镜像站，不提供原版 Mod 和原版游戏的百度网盘 / 蓝奏云等网盘镜像下载链接。请支持原作者。  
-> 链接均为官方链接。  
+> 链接均为官方链接。除非经过原作者授权，本站将不会制作原版 Mod 的镜像。  
+> **对于未按 [IP Guidelines](/ipguidelines) 规定分发的社区汉化版 Mod，将需要自行复制链接或前往原帖下载。** 造成的不便敬请谅解。
 
 ::: danger 警告！！！
 我们不对 Mod 中 的高能、恐怖、惊吓内容负责，带 【内容警告】 的 Mod 请慎重下载。  
@@ -26,9 +27,9 @@ title: 精选 Mod
 Just Monika.  
 **Monika 厨必备 Mod**，目前在 GitHub 已经超过累计 70 万下载，是真正的 DDLC Mod 人气王。从你安装 Mod 的那一刻开始，Monika 就属于你了。Mod 开源且持续更新中。
 
-[Mod 官网](http://www.monikaafterstory.com)
+[Mod 官网](http://www.monikaafterstory.com) | [社区汉化 - v0.10.7](https://github.com/Monika-After-Story/MonikaModDev/issues/5691)
 
-[社区汉化 - v0.10.7](https://tieba.baidu.com/p/6657189932) | [社区汉化 - v0.10.7（备用链接）](https://github.com/Monika-After-Story/MonikaModDev/issues/5691)
+（目前汉化工作仍在进行。）
 
 ## Purist Mod
 
@@ -37,6 +38,18 @@ Just Monika.
 [Reddit 帖](https://www.reddit.com/r/DDLCMods/comments/99zro9/the_ddlc_purist_mod_is_finally_released_turn_the/)
 
 [Google 云端硬盘下载（英文）](https://drive.google.com/open?id=1efoDS34hklUjg3v_mRmYfDxhW03y2zdh)
+
+## Don't Mod
+
+你体会过抑郁的绝望和重生吗？
+
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/eccc01/dont_mod_full_release_this_is_the_mod_im_proudest/) | [下载（MEGA）](https://mega.nz/#!UdEhyYjB!NYxk9bQ66yZOyBFgfN5_owRhlUIV3irn7dj7oLOOEew)
+
+## A Doki Doki Christmas Story Mod
+
+更温情的文学部。
+
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/efjgfb/a_doki_doki_christmas_story_full_release/)
 
 ## Do You Lift Club
 
@@ -72,7 +85,7 @@ Sayori 厨圣经。
 - Best Lighthearted Mod Runner-up
 - Most Innovative/Unique Runner-up
 
-[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/aduk6l/sayori_says_no_to_suicide_a_psa_download_link_in) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=235)（[下载链接](https://quqi.avyeld.com/s/4495569/5Dk3kY3JeRD4Z1ay)）
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/aduk6l/sayori_says_no_to_suicide_a_psa_download_link_in) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=235)（下载链接可能过期）
 
 > 请注意，Sayori Says No to Suicide Mod 的社区汉化版作者表明， **如需制作该汉化版的实况视频，必须取得授权，并提及全汉化者名单。**
 
@@ -84,13 +97,13 @@ Sayori 厨圣经。
 - Mod of the Year 2019 Runner-up
 - Most Innovative/Unique 第一名
 
-[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=217) （[下载链接](https://pan-yz.chaoxing.com/external/m/file/497856730222407680)，别问为什么是五三（x））
+[Reddit 原帖](https://www.reddit.com/r/DDLCMods/comments/bj0tnp/magical_literary_heroine_natsuki_saves_the) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=217) 
 
 ## Blinky Flappers!
 
 GitHub 上的 Mod，角色拥有了神态动画。
 
-[GitHub 项目](https://github.com/yamamotoNEW/Blinky-Flappers-MOD)
+[项目 GitHub](https://github.com/yamamotoNEW/Blinky-Flappers-MOD)
 
 ## 全真二周目模拟器【内容警告】（开发中）
 
