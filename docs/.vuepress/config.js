@@ -34,6 +34,7 @@ module.exports = {
         { text: '开发者', link: '/moddev/' },
         { text: 'IP Guidelines', link: '/ipguidelines' },
         { text: '更新历史', link: '/releases/' },
+        { text: '赞助', link: '/donate' },
         { text: '下载',
           items: [
             { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases' },

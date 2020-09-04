@@ -1,3 +1,7 @@
+---
+toggleBtn: 0
+---
+
 # 主页
 
 这里是 DokiMod 及中文 DDLC Mod 模板的官方文档！
