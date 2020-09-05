@@ -8,7 +8,7 @@ module.exports = {
           "player": "玩家指引",
           "mods": "精选 Mod",
           "releases": "版本更新历史",
-          "extension": "高级拓展"
+          "extensions": "素材 / 补丁插件"
         }
       },
     },
@@ -34,6 +34,7 @@ module.exports = {
         { text: '开发者', link: '/moddev/' },
         { text: 'IP Guidelines', link: '/ipguidelines' },
         { text: '更新历史', link: '/releases/' },
+        { text: '插件', link: '/extensions/' },
         { text: '赞助', link: '/donate' },
         { text: '下载',
           items: [
