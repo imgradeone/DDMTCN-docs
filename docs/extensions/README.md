@@ -21,3 +21,7 @@ title: 插件概览
 ## 插件站
 
 （coming soon）
+
+## 其他素材
+
+您可以在 [Doki Doki Mod Club 的素材仓库（Google Drive）](https://drive.google.com/drive/folders/1yTohcOnGV6Kw6Lru1cITWt-zwRoGSCm_) 里找到来自 Reddit / Discord 用户制作的社区素材。 **记得使用后在 Credits 上给他们做标注！**

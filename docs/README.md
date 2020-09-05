@@ -78,7 +78,7 @@ footerWrap:
 footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages
 ---
 
-<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases" target="_blank"><a-button type="primary" icon="download" size="large">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large">素材 / 补丁插件库</a-button></a>
+<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
 
 ::: warning 警告！！
 

@@ -6,7 +6,7 @@ sidebar: false
 
 # 赞助
 
-感谢您对 DokiMod 的支持。您可以通过以下两个方式赞助 **站长 imgradeone（一年级么么哒）**。目前仅支持中国大陆地区支付方式，暂不支持 Patreon。
+感谢您对 DokiMod 的支持。您可以通过以下两个方式赞助 **站长 imgradeone（一年级么么哒）**。目前仅支持中国大陆地区赞助方式，暂不支持 Patreon、GitHub Sponsors 等非中国大陆地区赞助方式。 ~~（国外支付方式是硬伤）~~
 
 支付宝赞助暂不开放。
 
