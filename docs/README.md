@@ -3,8 +3,10 @@ home: true
 heroImage: /logo_vertical.png
 heroText: DokiMod
 tagline: 为 Mod 创作赋能。
-actionText: 开始查看文档   →
-actionLink: /home
+actionText: 开始查看开发文档
+actionLink: /moddev/
+preactionText: 我是玩家
+preactionLink: /player/
 features:
 - title: 绝赞中文支持
   details: 好康的免版权字体，全面的简体中文支持（繁体在路上了）
@@ -96,3 +98,10 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 本站主要讨论 Mod 开发与分享，如果发现任何不适宜内容，请[通过邮箱联系站长](mailto:imgradeone@outlook.com)，或[在 GitHub Issues 区告诉我们](https://github.com/imgradeone/DDMTCN-docs/issues)，我们将尽快整改。
 :::
 
+这里是 DokiMod 及中文 DDLC Mod 模板的官方文档！
+
+## 关于 DokiMod
+
+DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。目前已提供 DDLC 中文 Mod 模板，接下来将提供素材 / 补丁库，满足开发需求。
+
+本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。
