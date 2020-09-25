@@ -9,6 +9,18 @@ title: IP Guidelines
 
 本页面详细介绍了与 Doki Doki Literature Club (DDLC) 相关的粉丝内容创作指南。本指南将解释对于 DDLC 粉丝内容，你允许做的，以及不允许做的事。
 
+## TL;DR
+
+1. 粉丝作品必须与 DDLC 有关。
+1. 使用 DDLC 官方素材的粉丝作品 **必须合理使用**。如果是粉丝游戏，则 **除非是 Mod**，否则不能使用官方资源。
+1. 粉丝游戏**必须免费分发**。
+1. 粉丝游戏不能顶替原版 DDLC。
+1. 粉丝游戏内不可以内置赞助链接。
+1. 粉丝游戏不能上架到任何应用商店。
+1. 粉丝游戏必须注明自己是 DDLC 的粉丝游戏，并提供 DDLC 原版游戏链接。
+1. **Mod 不能以“解压即打开”的方式分发。请让玩家自行体会原版游戏文件。**（很多 Mod 汉化者没有注意这一点）
+1. 不允许直接上传 DDLC 相关资源，除非它们用于粉丝作品。
+
 ## 免责声明
 本指南并不代表您拥有 DDLC 相关的粉丝内容的所有版权。即便有这些指南，Team Salvato 仍保留对侵权行为投诉的权力。这包括所有使用官方 DDLC 资源 / 素材的内容，以及包含属于 Team Salvato 知识产权（IP）的内容。原版 IP Guidelines 随时可能更新，且不会另行通知。
 
@@ -23,10 +35,6 @@ title: IP Guidelines
 
 粉丝作品必须与 DDLC 世界有所关联 —— 您不能在与 DDLC 无关的地方使用包含 Team Salvato IP 的内容。（如，在某个与 DDLC 完全无关的网站 / 产品上使用 DDLC 的角色图像）
 
-> 译者补充**反例**：在班主任模拟器（中国式班主任）这款与 DDLC 无关的游戏产品广告上使用 Yuri 看书的 CG
-
-![](https://cdn.jsdelivr.net/gh/imgradeone/assets.imgradeone.xyz@latest/yuriinad.jpg)
-
 需要以其他方式销售 DDLC 粉丝作品的企业或公司，请联系 Team Salvato 以获得许可。
 
 > 商业联系方式见 [这里（英文）](http://teamsalvato.com/businesses/)
@@ -37,6 +45,11 @@ title: IP Guidelines
 此类粉丝作品也包括游戏、网站、视频、音乐，只要包含 DDLC 的官方资源就算在内。
 
 任何包含 DDLC 官方资源的粉丝作品均不得以任何方式（包括线上、线下）进行销售。除非依照 `the United States FAIR USE Act of 2007` 构成合理使用（Fair Use），任何粉丝作品均不可用于获利。例如，游戏实况及评论视频属于合理使用。请所有作者务必明白合理使用的含义。
+
+> 译者补充**反例**：在班主任模拟器（中国式班主任）这款与 DDLC 无关的游戏产品广告上使用 Yuri 看书的 CG  
+> 请注意：此类在商业广告中使用 DDLC 官方资源的行为十分危险，请不要这么做。
+
+![](https://cdn.jsdelivr.net/gh/imgradeone/assets.imgradeone.xyz@latest/yuriinad.jpg)
 
 禁止直接上传 DDLC 的资源，除非它们用于粉丝作品。禁止从这些上传的官方资源里盈利。
 
