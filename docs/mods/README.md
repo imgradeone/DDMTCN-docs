@@ -67,7 +67,7 @@ Mod 提供英文和法文版本。
 
 Sayori 厨圣经。
 
-[从 MEGA 下载英文版](https://mega.nz/#!bCwESCaA!emn70pPnGeFWE_djaP0lTkPg2AYXRiaa7VOLMcsBnhc)
+[从 MEGA 下载英文版](https://mega.nz/#!bCwESCaA!emn70pPnGeFWE_djaP0lTkPg2AYXRiaa7VOLMcsBnhc) | [社区汉化版](https://forum.nothamor.cn/forum.php?mod=viewthread&tid=146)
 
 ## Summertime Mod
 
