@@ -8,7 +8,8 @@ module.exports = {
           "player": "玩家指引",
           "mods": "精选 Mod",
           "releases": "版本更新历史",
-          "extensions": "素材 / 补丁插件"
+          "extensions": "素材 / 补丁插件",
+          "excel2mod": "Excel2DDLCMod"
         }
       },
     },
@@ -32,14 +33,20 @@ module.exports = {
         { text: '主页', link: '/' },
         { text: '玩家指引', link: '/player/' },
         { text: '开发者', link: '/moddev/' },
-        { text: 'IP Guidelines', link: '/ipguidelines' },
+        { text: '杂项',
+          items: [
+            { text: 'IP Guidelines', link: '/ipguidelines' },
+            { text: '插件', link: '/extensions/' },
+            { text: 'Excel2DDLCMod', link: '/excel2mod/' },
+            { text: '赞助', link: '/donate' },
+          ]
+        },
         { text: '更新历史', link: '/releases/' },
-        { text: '插件', link: '/extensions/' },
-        { text: '赞助', link: '/donate' },
         { text: '下载',
           items: [
             { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases' },
             { text: 'DDLC Mod', link: '/mods/' },
+            { text: 'Excel2DDLCMod', link: 'https://github.com/DokiMod/Excel2DDLCMod' },
             { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
           ]
         },
