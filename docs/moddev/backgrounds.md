@@ -1,6 +1,7 @@
 ---
 title: 背景添加
 autoPrev: firstlabel
+sidebarDepth: 2
 ---
 
 # 背景添加
@@ -39,4 +40,168 @@ label meet_monika:
 
 ## 那么刚刚加的代码啥意思？
 
-（咕）
+`scene` 是 Ren'Py 中显示背景图片的命令。
+
+`bg residential_day` 则是所需要显示的图片。实际上这是经过定义的语句，您可以在 `game/advanced_scripts/definitions.rpy` 里查看所有定义过的背景，但这还是很复杂。文档下方会附带 [全部背景预览](#全部背景预览)，帮助你选择背景。
+
+`with dissolve_scene_full` 是转场效果。（解释待补充）
+
+一些对于新人来说没什么用的拓展：相较于 `show` 命令，`scene` 可以清空目前所有显示的背景、立绘，并直接显示新的背景。如果使用 `show` 命令，那么切换背景时会有许多问题，但使用 `scene` 就解决了这个问题。
+
+## 全部背景预览
+
+感谢背景画师 （待补） 的爆肝。
+
+### bg residential_day（家门口）
+
+> 预览待补
+
+调用方式（不带转场，下同）：
+
+```renpy
+    scene bg residential_day
+```
+
+### bg corridor（走廊）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg corridor
+```
+
+### bg club_day（文学部活动室）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg club_day
+```
+
+### bg club_day2
+
+::: warning 警告
+使用本背景前请务必注意增加内容警告，且照顾 Sayori 厨的感受（（（
+:::
+
+文学部活动室，但有 1/6 概率出现某个恶心的东西
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg club_day2
+```
+
+### bg club_day_skill（出现某个恶心的东西的文学部活动室）
+
+::: warning 警告
+使用本背景前请务必注意增加内容警告，且照顾 Sayori 厨的感受（（（
+:::
+
+文学部活动室，但会 100% 出现某个恶心的东西（中文模板赠送）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg club_day_skill
+```
+
+### bg closet（储物间）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg closet
+```
+
+### bg bedroom（MC 家的卧室）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg bedroom
+```
+
+### bg sayori_bedroom（Sayori 家的卧室）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg sayori_bedroom
+```
+
+### bg house（Sayori 家的门口）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg house
+```
+
+### bg kitchen（MC 家的厨房）
+
+> 预览待补
+
+调用方式：
+
+```renpy
+    scene bg kitchen
+```
+
+## 纯色背景
+
+### black（纯黑色）
+
+调用方式：
+
+```renpy
+    scene black
+```
+
+### dark（暗色遮罩）
+
+调用方式（使用 show 获得最佳效果）：
+
+```renpy
+    show dark
+```
+
+### darkred（血色遮罩）
+
+调用方式（使用 show 获得最佳效果）：
+
+```renpy
+    show darkred
+```
+
+### white（纯白）
+
+调用方式：
+
+```renpy
+    scene white
+```
+
+### end（END 字幕）
+
+调用方式：
+
+```renpy
+    scene end
+```
