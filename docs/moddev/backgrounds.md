@@ -50,11 +50,11 @@ label meet_monika:
 
 ## 全部背景预览
 
-感谢背景画师 （待补） 的爆肝。
+感谢背景画师 Velinquent 的爆肝。
 
 ### bg residential_day（家门口）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_residential.png)
 
 调用方式（不带转场，下同）：
 
@@ -64,7 +64,7 @@ label meet_monika:
 
 ### bg corridor（走廊）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_corridor.png)
 
 调用方式：
 
@@ -74,7 +74,7 @@ label meet_monika:
 
 ### bg club_day（文学部活动室）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_club.png)
 
 调用方式：
 
@@ -88,9 +88,7 @@ label meet_monika:
 使用本背景前请务必注意增加内容警告，且照顾 Sayori 厨的感受（（（
 :::
 
-文学部活动室，但有 1/6 概率出现某个恶心的东西
-
-> 预览待补
+文学部活动室，但有 1/6 概率出现某个恶心的东西（恶心的东西见下方 club_day_skill）
 
 调用方式：
 
@@ -106,7 +104,7 @@ label meet_monika:
 
 文学部活动室，但会 100% 出现某个恶心的东西（中文模板赠送）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_club-skill.png)
 
 调用方式：
 
@@ -116,7 +114,7 @@ label meet_monika:
 
 ### bg closet（储物间）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_closet.png)
 
 调用方式：
 
@@ -126,7 +124,7 @@ label meet_monika:
 
 ### bg bedroom（MC 家的卧室）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_bedroom.png)
 
 调用方式：
 
@@ -136,7 +134,7 @@ label meet_monika:
 
 ### bg sayori_bedroom（Sayori 家的卧室）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_sayori_bedroom.png)
 
 调用方式：
 
@@ -146,7 +144,7 @@ label meet_monika:
 
 ### bg house（Sayori 家的门口）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_house.png)
 
 调用方式：
 
@@ -156,7 +154,7 @@ label meet_monika:
 
 ### bg kitchen（MC 家的厨房）
 
-> 预览待补
+![](https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_kitchen.png)
 
 调用方式：
 
@@ -205,3 +203,7 @@ label meet_monika:
 ```renpy
     scene end
 ```
+
+## 转场方式
+
+（待补充）

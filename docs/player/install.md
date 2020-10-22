@@ -42,7 +42,8 @@ macOS 用户请下载 `DDLC (Mac)`。
 如果需要使用 Doki Doki Mod Manager，我们不建议从 Steam 下载游戏。
 :::
 
-点击[这里](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) 或在 Steam 商店里搜索 `Doki Doki Literature Club!` 获取 DDLC。
+点击[这里](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) 或在 Steam 商店里搜索 `Doki Doki Literature Club!` 获取 DDLC。  
+（目前已知 360 安全浏览器会屏蔽此链接，如果无法使用链接访问，请尝试更换浏览器或直接在 Steam 客户端里下载）
 
 完成获取后，您应该可以游玩原版 DDLC 了。
 
