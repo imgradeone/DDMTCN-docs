@@ -18,6 +18,10 @@ title: 插件概览
 
 （coming soon）
 
+目前你可以通过查看示例插件仓库来了解 DokiMod 插件的开发。
+
+<a href="https://github.com/DokiMod/dokimod-extension-example"><a-button type="primary" ghost>源代码仓库 ></a-button></a>
+
 ## 插件站
 
 （coming soon）
@@ -32,11 +36,23 @@ DokiMod 为开发者准备了一些官方插件，您可以借助这些插件来
 
 <a href="community-emotion-pack"><a-button type="primary" icon="right" size="large" shape="round">了解详情</a-button></a> <a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button size="large" shape="round" icon="download">下载插件</a-button></a>
 
-### 社区角色神态包
+### Blinky Flappers!
 
-追加更多角色神态，并让 Yuri `y` / Insane / Yandere 系列神态支持日常服装。
+<a-tag color="pink">移植</a-tag> <a-tag color="orange">实验性</a-tag>
 
-<a href="community-emotion-pack"><a-button type="primary" icon="right" size="large" shape="round">了解详情</a-button></a> <a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button size="large" shape="round" icon="download">下载插件</a-button></a>
+向角色追加更多动画。（移植自 Blinky Flappers! Mod）
+
+<a href="https://github.com/DokiMod/dokimod-extension-blinky-flappers"><a-button size="large" shape="round">源代码仓库</a-button></a>
+
+### 不要晴天娃娃！！！！！
+
+<a-tag color="orange">实验性</a-tag> <a-tag color="red">bug 多</a-tag>
+
+去除原游戏中的“晴天娃娃”，充分考虑 Sayori 厨的感受。当然，同时去除了 Yuri 拿刀自裁的东西。
+
+<a-alert message="该插件目前有已知问题。" banner />
+
+<a href="https://github.com/DokiMod/dokimod-extension-no-hanging"><a-button size="large" shape="round">源代码仓库</a-button></a>
 
 ## 其他素材
 

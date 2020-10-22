@@ -80,10 +80,10 @@ footerWrap:
     details: Just Monika!!!
   - title: DDLC 官方周边商店（Shopify，海外）
     link: https://ddlcstore.com
-footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages
+footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages | powered by VuePress
 ---
 
-<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
+<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
 
 ::: warning 警告！！
 
@@ -109,6 +109,6 @@ DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod
 
 本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。
 
-目前 DokiMod 团队有 2 人，imgradeone 和 Dobby233Liu。
+目前 DokiMod 团队（？）有 2 人，imgradeone 和 Dobby233Liu。
 
-顺便，[百度](https://www.baidu.com/s?wd=DokiMod) 竟然收录了 DokiMod，属实感动。
+顺便，[百度](https://www.baidu.com/s?wd=DokiMod) 竟然收录了 DokiMod，属实感动。（但权重依旧没有）

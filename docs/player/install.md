@@ -80,9 +80,11 @@ macOS 用户请下载 `DDLC (Mac)`。
 **如果需要使用 Doki Doki Mod Manager，请不要从 Steam 下载游戏。**
 :::
 
+Doki Doki Mod Manager 是一款在 DDLC 社区热门的 Mod 管理器，使用 DDMM 可以让 Mod 管理更方便。
+
 首先，访问 DDMM 官网 [https://doki.space](https://doki.space)，点击 `Download`，根据系统选择相应版本。
 
-然后，运行安装包，等待安装。（近期新版 Windows DDMM 采用 Web 安装包，下载需要一定时间，请耐心等待）
+然后，运行安装包，等待安装。（Windows DDMM 4 目前采用的是 Web 安装包，下载需要一定时间，请耐心等待）
 
 安装完成后，根据提示完成 DDMM 安装。
 

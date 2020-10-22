@@ -11,7 +11,7 @@ autoGroup-1: 官方插件
 > 本插件属于粉丝作品。  
 > 使用了官方素材，但这些素材用于粉丝作品。
 
-<a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button type="primary" size="large" shape="round" icon="download">下载插件</a-button></a>
+<a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button type="primary" size="large" shape="round" icon="download">下载插件</a-button></a> <a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button type="link">源代码仓库</a-button></a>
 
 ## 特性
 
