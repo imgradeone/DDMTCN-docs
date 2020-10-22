@@ -22,6 +22,22 @@ title: 插件概览
 
 （coming soon）
 
+## 官方插件
+
+DokiMod 为开发者准备了一些官方插件，您可以借助这些插件来让自己的 Mod 更出色。
+
+### 社区角色神态包
+
+追加更多角色神态，并让 Yuri `y` / Insane / Yandere 系列神态支持日常服装。
+
+<a href="community-emotion-pack"><a-button type="primary" icon="right" size="large" shape="round">了解详情</a-button></a> <a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button size="large" shape="round" icon="download">下载插件</a-button></a>
+
+### 社区角色神态包
+
+追加更多角色神态，并让 Yuri `y` / Insane / Yandere 系列神态支持日常服装。
+
+<a href="community-emotion-pack"><a-button type="primary" icon="right" size="large" shape="round">了解详情</a-button></a> <a href="https://github.com/DokiMod/dokimod-extension-community-emotion-pack/releases/latest"><a-button size="large" shape="round" icon="download">下载插件</a-button></a>
+
 ## 其他素材
 
 您可以在 [Doki Doki Mod Club 的素材仓库（Google Drive）](https://drive.google.com/drive/folders/1yTohcOnGV6Kw6Lru1cITWt-zwRoGSCm_) 里找到来自 Reddit / Discord 用户制作的社区素材。 **记得使用后在 Credits 上给他们做标注！**

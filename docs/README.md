@@ -39,6 +39,9 @@ footerWrap:
   - title: MTR
     link: https://mtrstatic.ga
     details: 永远滴神
+  - title: 赞助
+    link: https://dokimod.cn/donate.html
+    details: 大哥打点钱吧（（（
 - headline: DokiMod 官方社群 / 平台
   items:
   - title: GitHub
@@ -107,3 +110,5 @@ DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod
 本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。
 
 目前 DokiMod 团队有 2 人，imgradeone 和 Dobby233Liu。
+
+顺便，[百度](https://www.baidu.com/s?wd=DokiMod) 竟然收录了 DokiMod，属实感动。
