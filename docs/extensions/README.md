@@ -20,7 +20,7 @@ title: 插件概览
 
 目前你可以通过查看示例插件仓库来了解 DokiMod 插件的开发。
 
-<a href="https://github.com/DokiMod/dokimod-extension-example"><a-button type="primary" ghost>源代码仓库 ></a-button></a>
+<a href="https://github.com/DokiMod/dokimod-extension-example"><a-button type="primary" shape="round" icon="right" ghost>源代码仓库</a-button></a>
 
 ## 插件站
 

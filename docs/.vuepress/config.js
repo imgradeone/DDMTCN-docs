@@ -8,6 +8,7 @@ module.exports = {
           "player": "玩家指引",
           "mods": "精选 Mod",
           "releases": "版本更新历史",
+          "downloads": "下载",
           "extensions": "素材 / 补丁插件",
           "excel2mod": "Excel2DDLCMod"
         }
@@ -39,12 +40,13 @@ module.exports = {
             { text: 'IP Guidelines', link: '/ipguidelines' },
             { text: 'Excel2DDLCMod', link: '/excel2mod/' },
             { text: '赞助', link: '/donate' },
+            { text: '更新历史', link: '/releases/' },
           ]
         },
-        { text: '更新历史', link: '/releases/' },
         { text: '下载',
           items: [
-            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases' },
+            { text: '整合页', link: '/downloads/' },
+            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest' },
             { text: '中文 Mod 模板 - 字体包', link: '/moddev/fontdl.html' },
             { text: 'DDLC Mod', link: '/mods/' },
             { text: 'Excel2DDLCMod', link: 'https://github.com/DokiMod/Excel2DDLCMod' },

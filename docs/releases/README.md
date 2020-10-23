@@ -18,7 +18,7 @@ title: 更新历史 - 概览
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="pink">新增</a-tag> 插件功能支持<br/>
-        &emsp;- <a-tag color="pink">新增</a-tag> Yuri 神态追加<br/>
+        &emsp;- <a-tag color="pink">新增</a-tag> Yuri 神态追加 hisui 风格<br/>
         &emsp;- <a-tag color="blue">优化</a-tag> 超链接优化<br/>
         &emsp;- <a-tag color="blue">优化</a-tag> 文件结构优化<br/>
         &emsp;- <a-tag color="pink">新增</a-tag> 中英文诗词对应字体切换配置<br/>
