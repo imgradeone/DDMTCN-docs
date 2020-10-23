@@ -78,8 +78,11 @@ footerWrap:
   - title: Monika!
     link: https://twitter.com/lilmonix3
     details: Just Monika!!!
-  - title: DDLC 官方周边商店（Shopify，海外）
+  - title: DDLC 官方周边商店（搬家中）
     link: https://ddlcstore.com
+  - title: For Fans By Fans x DDLC
+    link: https://www.forfansbyfans.com/fandom/doki-doki-literature-club.html
+    details: 粉丝周边，官方授权
 footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages | powered by VuePress
 ---
 
@@ -101,11 +104,11 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 本站主要讨论 Mod 开发与分享，如果发现任何不适宜内容，请 [通过邮箱联系站长](mailto:imgradeone@outlook.com)，或 [在 GitHub Issues 区告诉我们](https://github.com/imgradeone/DDMTCN-docs/issues)，我们将尽快整改。（链接可以点）
 :::
 
-这里是 DokiMod 及中文 DDLC Mod 模板的官方文档！
+这里是 DokiMod 及 DDLC 中文 Mod 模板的官方文档！
 
 ## 关于 DokiMod
 
-DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。目前已提供 DDLC 中文 Mod 模板，接下来将提供素材 / 补丁库，满足开发需求。
+DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。目前已推出 DDLC 中文 Mod 模板，接下来将提供素材 / 补丁库，满足开发需求，以及 Excel2DDLCMod，用于入门开发第一个 DDLC Mod。
 
 本站属于粉丝作品，遵循 [Team Salvato IP Guidelines](/ipguidelines)。
 

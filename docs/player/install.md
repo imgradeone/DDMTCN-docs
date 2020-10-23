@@ -30,7 +30,7 @@ macOS 用户请下载 `DDLC (Mac)`。
 如果需要关闭此功能，按下键盘的 `Command - +`（`⌘+`）或在顶栏找到 `Safari 浏览器` - `偏好设置`，取消勾选 `下载后打开“安全的”文件` 即可。
 :::
 
-> 游戏是免费游戏，在此处若赞助超过 10 美元即可下载 Fan Pack。
+> 游戏是免费游戏，在此处若赞助超过 10 美元即可下载 Fan Pack。Fan Pack 包含 8 张 CG 壁纸（1080p，含手机、电脑版）、DDLC Concept Fan Book（关于游戏开发的设计故事）、DDLC OST（原声带）。
 
 如果太麻烦，你也可以点击[这里](https://teamsalvato.itch.io/ddlc)，操作同理。
 

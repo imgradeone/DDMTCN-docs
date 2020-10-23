@@ -19,7 +19,9 @@ autoPrev: font
 
 ## 中国大陆地区用户
 
-[奶牛快传（链接会于 2021-09-24 过期）](https://imgradeone.cowtransfer.com/s/3852906fbdf246) | [蓝奏云](https://imgradeone.lanzous.com/iwq7wec3j7a) | [百度网盘 提取码 hi2j](https://pan.baidu.com/s/1WiO1qD8cI8U1YTEVeVrkuQ) | [城通网盘（仅供赞助用途，实际体验差）](http://ct.imgradeone.xyz/file/24390393-452015477)
+[奶牛快传（链接会于 2021-09-24 过期）](https://imgradeone.cowtransfer.com/s/3852906fbdf246) | [蓝奏云](https://imgradeone.lanzous.com/iwq7wec3j7a) | [百度网盘 提取码 hi2j](https://pan.baidu.com/s/1WiO1qD8cI8U1YTEVeVrkuQ)
+
+由于实际体验差，且有盈利嫌疑，从现在起，DokiMod 不提供城通网盘下载链接。
 
 ## 其他地区用户
 
