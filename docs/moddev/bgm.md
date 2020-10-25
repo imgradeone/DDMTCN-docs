@@ -18,7 +18,7 @@ sidebarDepth: 2
 
 默认主界面 BGM，也是主题曲。
 
-<a href="https://www.youtube.com/watch?v=BFSWlDpA6C4" target="_blank"><a-button type="primary" icon="play-circle" size="large" shape="round" ghost>前往 YouTube 试听</a-button></a> <a href="https://music.163.com/song?id=523658868" target="_blank"><a-button type="link" icon="play-circle" size="large" shape="round">前往网易云音乐试听</a-button></a> 
+<a href="https://www.youtube.com/watch?v=BFSWlDpA6C4" target="_blank"><a-button type="primary" icon="play-circle" size="large" shape="round" ghost>前往 YouTube 试听</a-button></a> <a href="https://music.163.com/song?id=523658868" target="_blank"><a-button type="link" size="large" shape="round">前往网易云音乐试听</a-button></a> 
 
 使用方式：
 
@@ -30,7 +30,7 @@ sidebarDepth: 2
 
 初见 Sayori 时的 BGM。
 
-<a href="https://www.youtube.com/watch?v=BUWuDdfe7v4" target="_blank"><a-button type="primary" icon="play-circle" size="large" shape="round" ghost>前往 YouTube 试听</a-button></a> <a href="https://music.163.com/song?id=523658869" target="_blank"><a-button type="link" icon="play-circle" size="large" shape="round">前往网易云音乐试听</a-button></a> 
+<a href="https://www.youtube.com/watch?v=BUWuDdfe7v4" target="_blank"><a-button type="primary" icon="play-circle" size="large" shape="round" ghost>前往 YouTube 试听</a-button></a> <a href="https://music.163.com/song?id=523658869" target="_blank"><a-button type="link" size="large" shape="round">前往网易云音乐试听</a-button></a> 
 
 ```renpy
     play music t2
@@ -114,4 +114,216 @@ sidebarDepth: 2
 
 ```renpy
     play music t4g
+```
+
+### t5 - Okay Everyone!
+
+诗歌分享 BGM。
+
+使用方式：
+
+```renpy
+    play music t5
+```
+
+### tmonika - Okay Everyone! (Monika)
+
+诗歌分享 BGM 的 Monika 版本。
+
+使用方式：
+
+```renpy
+    play music tmonika
+```
+
+### tsayori - Okay Everyone! (Sayori)
+
+诗歌分享 BGM 的 Sayori 版本。
+
+使用方式：
+
+```renpy
+    play music tsayori
+```
+
+### tnatsuki - Okay Everyone! (Natsuki)
+
+诗歌分享 BGM 的 Natsuki 版本。
+
+使用方式：
+
+```renpy
+    play music tnatsuki
+```
+
+### tyuri - Okay Everyone! (Yuri)
+
+诗歌分享 BGM 的 Yuri 版本。
+
+使用方式：
+
+```renpy
+    play music tyuri
+```
+
+### t6 - Play With Me
+
+Yuri 和 Natsuki 的主题曲。
+
+使用方式：
+
+```renpy
+    play music t6
+```
+
+### t6g - Play With Me 核爆版本
+
+<a-tag color="orange">内容警告</a-tag>
+
+Yuri 和 Natsuki 的主题曲，但是是爆炸版本，音量诉讼。。
+
+使用方式：
+
+```renpy
+    play music t6g
+```
+
+### t6r - Play With Me 倒放版
+
+Yuri 和 Natsuki 的主题曲，但是是倒放的。
+
+使用方式：
+
+```renpy
+    play music t6r
+```
+
+### t6s - Play With Me 0.25 倍速版
+
+<a-tag color="orange">内容警告</a-tag>
+
+Yuri 和 Natsuki 的主题曲，但是是 0.25 倍速播放的， **效果极为阴间** 。
+
+使用方式：
+
+```renpy
+    play music t6s
+```
+
+### t7 - Poem Panic
+
+Yuri 和 Natsuki 争吵时的背景音乐。
+
+使用方式：
+
+```renpy
+    play music t7
+```
+
+### t7a - Poem Panic 洗脑循环版
+
+Yuri 和 Natsuki 争吵时的背景音乐，但一直循环同一段。
+
+使用方式：
+
+```renpy
+    play music t7a
+```
+
+### t7g - Poem Panic 极限争吵版
+
+<a-tag color="orange">内容警告</a-tag>
+
+Yuri 和 Natsuki 争吵时的背景音乐，但此时已经爆炸了。
+
+使用方式：
+
+```renpy
+    play music t7g
+```
+
+### t8 - Daijoubu!
+
+Yuri 和 Natsuki 和解时的背景音乐。
+
+使用方式：
+
+```renpy
+    play music t8
+```
+
+### t9 - My Feelings
+
+Sayori 表达自己感情的背景音乐。（或者 Yuri？）
+
+使用方式：
+
+```renpy
+    play music t9
+```
+
+### t9g - My Feelings 2.07 倍速版
+
+Sayori 表达自己感情的背景音乐（或者 Yuri？），但被 2.07 倍速播放。
+
+使用方式：
+
+```renpy
+    play music t9g
+```
+
+### t10 - My Confession
+
+使用方式：
+
+```renpy
+    play music t10
+```
+
+### t10y - My Confession (10-yuri Edition)
+
+<a-tag color="orange">内容警告</a-tag>
+
+完蛋了，完蛋了（（（（（（（（
+
+使用方式：
+
+```renpy
+    play music t10y
+```
+
+### td - Say0-nara
+
+<a-tag color="orange">内容警告</a-tag>
+
+::: warning 警告
+使用本 BGM 前请务必注意增加内容警告，且照顾 Sayori 厨的感受。
+:::
+
+你敢用这个 BGM 我就杀了你（（（
+
+使用方式：
+
+```renpy
+    play music td
+```
+
+### m1 - Just Monika.
+
+Just Monika.
+
+使用方式：
+
+```renpy
+    play music m1
+```
+
+### mend - I Still Love You
+
+在？为什么删 Monika？（（（
+
+使用方式：
+
+```renpy
+    play music m1
 ```
