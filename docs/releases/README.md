@@ -13,8 +13,16 @@ title: 更新历史 - 概览
 <template>
   <a-timeline>
     <a-timeline-item>
+      v1.3.1
+      <a-tag color="green">开发版</a-tag>
+      <p>
+        更新内容：<br/>
+        &emsp;- <a-tag color="pink">新增</a-tag> music td2 背景音乐<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       v1.3
-      <a-tag color="orange">开发版</a-tag>
+      <a-tag color="green">最新稳定版</a-tag>
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="pink">新增</a-tag> 插件功能支持<br/>
@@ -27,7 +35,6 @@ title: 更新历史 - 概览
     </a-timeline-item>
     <a-timeline-item>
       v1.2
-      <a-tag color="green">最新稳定版</a-tag>
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="purple">升级</a-tag> 中文字体包，增加全新中文写诗字体<br/>

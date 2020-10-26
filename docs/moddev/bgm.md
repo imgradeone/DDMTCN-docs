@@ -108,6 +108,8 @@ sidebarDepth: 2
 
 ### t4g - fjkshfwafiawbfkwabfeswbahvdaef
 
+<a-tag color="orange">内容警告</a-tag>
+
 写诗游戏 BGM，但爆炸了。
 
 使用方式：
@@ -180,7 +182,7 @@ Yuri 和 Natsuki 的主题曲。
 
 <a-tag color="orange">内容警告</a-tag>
 
-Yuri 和 Natsuki 的主题曲，但是是爆炸版本，音量诉讼。。
+Yuri 和 Natsuki 的主题曲，但是是爆炸版本，音量诉讼。
 
 使用方式：
 
@@ -300,12 +302,34 @@ Sayori 表达自己感情的背景音乐（或者 Yuri？），但被 2.07 倍�
 使用本 BGM 前请务必注意增加内容警告，且照顾 Sayori 厨的感受。
 :::
 
+本 BGM 包含开门时被吓着的音效。
+
 你敢用这个 BGM 我就杀了你（（（
 
 使用方式：
 
 ```renpy
-    play music td
+    play music td2
+```
+
+### td2 - Say0-nara 伪 OST 还原版
+
+<a-tag color="orange">内容警告</a-tag> <a-tag color="pink">v1.3.1+</a-tag>
+
+::: warning 警告
+使用本 BGM 前请务必注意增加内容警告，且照顾 Sayori 厨的感受。
+:::
+
+本 BGM 不包含开门时被吓着的音效，更像 OST 版本。
+
+**需要 DDLC 中文 Mod 模板 v1.3.1，目前开发版已支持此 BGM。**
+
+你敢用这个 BGM 我照样杀了你（（（
+
+使用方式：
+
+```renpy
+    play music td2
 ```
 
 ### m1 - Just Monika.
