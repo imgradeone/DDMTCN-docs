@@ -14,7 +14,7 @@ title: 更新历史 - 概览
   <a-timeline>
     <a-timeline-item>
       v1.3.1
-      <a-tag color="green">开发版</a-tag>
+      <a-tag color="orange">开发版</a-tag>
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="pink">新增</a-tag> music td2 背景音乐<br/>

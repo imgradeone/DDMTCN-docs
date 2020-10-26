@@ -77,7 +77,7 @@ macOS 用户请下载 `DDLC (Mac)`。
 ::: warning 提示
 部分 Mod 可能不支持 DDMM，遇到这种情况请向 DDMM 开发者反馈。您可以在 `Options / 选项` - `Languages / 语言` 里设置 DDMM 语言为简体中文。
 
-**如果需要使用 Doki Doki Mod Manager，请不要从 Steam 下载游戏。**
+**如果需要使用 Doki Doki Mod Manager，请不要从 Steam 下载游戏。同时请不要删除你下载的 DDLC zip 游戏压缩包，也不要解压 Mod。**
 :::
 
 Doki Doki Mod Manager 是一款在 DDLC 社区热门的 Mod 管理器，使用 DDMM 可以让 Mod 管理更方便。
@@ -88,7 +88,7 @@ Doki Doki Mod Manager 是一款在 DDLC 社区热门的 Mod 管理器，使用 D
 
 安装完成后，根据提示完成 DDMM 安装。
 
-接下来，选择主界面上的 `Install DDLC` / `安装 DDLC 及模组文件`，然后命名，在 `Mods` / `模组` 栏选择 `Mods isn't listed here` / `此处未列出的模组`，选择你下载的 Mod，然后安装即可。
+接下来，选择主界面上的 `Install DDLC` / `安装 DDLC 及模组文件`，然后命名，在 `Mods` / `模组` 栏选择 `Mods isn't listed here` / `此处未列出的模组`，选择你下载的 Mod 压缩包，然后安装即可。
 
 接下来，启动 Mod，开始畅玩，就这么简单！
 
