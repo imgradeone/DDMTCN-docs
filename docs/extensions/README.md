@@ -50,7 +50,9 @@ DokiMod 为开发者准备了一些官方插件，您可以借助这些插件来
 
 去除原游戏中的“晴天娃娃”，充分考虑 Sayori 厨的感受。当然，同时去除了 Yuri 拿刀自裁的东西。
 
+
 <a-alert message="该插件目前有已知问题。" banner />
+
 
 <a href="https://github.com/DokiMod/dokimod-extension-no-hanging"><a-button size="large" shape="round">源代码仓库</a-button></a>
 
