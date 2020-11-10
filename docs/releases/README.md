@@ -18,6 +18,7 @@ title: 更新历史 - 概览
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="pink">新增</a-tag> music td2 背景音乐<br/>
+        &emsp;- <a-tag color="blue">优化</a-tag> 关于页简化<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>
