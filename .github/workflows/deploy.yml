@@ -15,3 +15,5 @@ jobs:
         BUILD_DIR: docs/.vuepress/dist
         BUILD_SCRIPT: yarn && yarn docs:build
         CNAME: dokimod.cn
+        TARGET_REPO: DokiMod/dokimod.github.io
+        TARGET_BRANCH: main
