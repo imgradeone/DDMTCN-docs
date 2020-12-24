@@ -14,6 +14,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BUILD_DIR: docs/.vuepress/dist
         BUILD_SCRIPT: yarn && yarn docs:build
-        CNAME: dokimod.cn
-        TARGET_REPO: DokiMod/dokimod.github.io
+        CNAME: next.dokimod.cn
+        TARGET_REPO: DokiMod/next.dokimod.cn
         TARGET_BRANCH: main
