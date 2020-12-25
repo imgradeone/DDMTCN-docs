@@ -24,7 +24,7 @@ module.exports = {
     themeConfig: {
       docsRepo: 'imgradeone/DDMTCN-Docs',
       docsDir: 'docs',
-      docsBranch: 'master',
+      docsBranch: 'next',
       editLinks: true,
       smoothScroll: true,
       editLinkText: '前往 GitHub 编辑此页面',
@@ -32,34 +32,30 @@ module.exports = {
       logo: '/logo_128x128.png',
       nav: [
         { text: '主页', link: '/' },
-        { text: '玩家指引', link: '/player/' },
-        { text: '开发者', link: '/moddev/' },
-        { text: '插件', link: '/extensions/' },
-        { text: '杂项',
+        { text: '产品', link: '/products/',
           items: [
-            { text: 'IP Guidelines', link: '/ipguidelines' },
-            { text: 'Excel2DDLCMod', link: '/excel2mod/' },
-            { text: '赞助', link: '/donate' },
-            { text: '更新历史', link: '/releases/' },
+            { text: 'DDLC 中文 Mod 模板', link: '/products/cnmodtemp' },
+            { text: '蜜茶 Bot', link: '/products/mitana' },
+            { text: 'DokiMod 插件', link: 'https://ddlc.moe/' }
           ]
         },
-        { text: '下载',
+        { text: '文档', link: '/doc/',
           items: [
-            { text: '整合页', link: '/downloads/' },
-            { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest' },
-            { text: '中文 Mod 模板 - 字体包', link: '/moddev/fontdl.html' },
-            { text: 'DDLC Mod', link: '/mods/' },
-            { text: 'Excel2DDLCMod', link: 'https://github.com/DokiMod/Excel2DDLCMod' },
-            { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
+            { text: 'DDLC 中文 Mod 模板 / Mod 开发', link: '/doc/moddev' },
+            { text: '蜜茶 Bot', link: '/doc/mitana' },
+            { text: 'DokiMod 插件开发', link: '/doc/extdev' },
+            { text: '玩家帮助', link: '/doc/player' }
           ]
         },
+        { text: '下载', link: '/downloads/' },
+        { text: '返回原版文档', link: 'https://dokimod.cn' },
         {
           text: 'GitHub',
           items: [
             { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
             { text: '文档', link: 'https://github.com/imgradeone/DDMTCN-Docs' }
           ]
-        }
+        },
       ],
     }
     
