@@ -71,13 +71,15 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 
 <a-alert type="error" message="DokiMod 新版文档正在编写，目前内容仍需回炉重造，请稍安勿躁。" banner></a-alert>
 
-::: warning 警告！！
-本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 [DDLC.moe](https://ddlc.moe) 下载 DDLC，或前往 Steam 搜索 `Doki Doki Literature Club!` 下载
+<a-alert type="warning" banner>
+  <span slot="message">
+    本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 <a href="https://ddlc.moe" target="_blank">https://ddlc.moe</a> 下载 DDLC，或前往 Steam 搜索 Doki Doki Literature Club! 下载。
+  </span>
+</a-alert>
 
 **本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
 
 同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
-:::
 
 ::: danger 严正（？）声明！！！
 本站仅讨论与 DDLC 原作本身**基本无关**的内容，虽然涉及剧透，但**不内置任何恐怖、自残、自杀内容**！请放心浏览！
