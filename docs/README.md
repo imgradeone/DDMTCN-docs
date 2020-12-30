@@ -68,18 +68,16 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 ---
 
 <a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
-
+<br/>
 <a-alert type="error" message="DokiMod 新版文档正在编写，目前内容仍需回炉重造，请稍安勿躁。" banner></a-alert>
-
+<br/>
 <a-alert type="warning" banner>
   <span slot="message">
-    本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 <a href="https://ddlc.moe" target="_blank">https://ddlc.moe</a> 下载 DDLC，或前往 Steam 搜索 Doki Doki Literature Club! 下载。
+    本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 <a href="https://ddlc.moe" target="_blank">https://ddlc.moe</a> 下载 DDLC，或前往 Steam 搜索 Doki Doki Literature Club! 下载。<br/>
+    <b>本站文档还在搭建当中</b>，且由于作者不怎么会使用 VuePress，所以...<br/>
+    同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
   </span>
 </a-alert>
-
-**本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
-
-同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
 
 ::: danger 严正（？）声明！！！
 本站仅讨论与 DDLC 原作本身**基本无关**的内容，虽然涉及剧透，但**不内置任何恐怖、自残、自杀内容**！请放心浏览！
@@ -89,7 +87,7 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 
 这里是 DokiMod 及 DDLC 中文 Mod 模板的官方文档！
 
-## 关于 DokiMod
+<!-- ## 关于 DokiMod
 
 DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod 圈子，也算是为 Ren'Py 做推广。目前已推出 DDLC 中文 Mod 模板，接下来将提供素材 / 补丁库，满足开发需求，以及 Excel2DDLCMod，用于入门开发第一个 DDLC Mod。
 
@@ -97,4 +95,4 @@ DokiMod 是由 imgradeone 初建的平台，目的是为了发展中文 DDLC Mod
 
 目前 DokiMod 团队（？）有 2 人，imgradeone 和 Dobby233Liu。
 
-顺便，[百度](https://www.baidu.com/s?wd=DokiMod) 竟然收录了 DokiMod，属实感动。（但权重依旧没有）
+顺便，[百度](https://www.baidu.com/s?wd=DokiMod) 竟然收录了 DokiMod，属实感动。（但权重依旧没有） -->
