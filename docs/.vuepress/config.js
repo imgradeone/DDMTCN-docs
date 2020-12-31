@@ -34,9 +34,10 @@ module.exports = {
         { text: '主页', link: '/' },
         { text: '产品', link: '/products/',
           items: [
+            { text: '产品', link: '/products/' },
             { text: 'DDLC 中文 Mod 模板', link: '/products/cnmodtemp' },
             { text: '蜜茶 Bot', link: '/products/mitana' },
-            { text: 'DokiMod 插件', link: 'https://ddlc.moe/' }
+            { text: 'DokiMod 插件', link: '/products/extensions' }
           ]
         },
         { text: '文档', link: '/doc/',
