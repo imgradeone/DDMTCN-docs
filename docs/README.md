@@ -3,10 +3,10 @@ home: true
 heroImage: /logo_vertical.png
 heroText: DokiMod
 tagline: 为 Mod 创作赋能。
-actionText: 开始查看开发文档
-actionLink: /moddev/
-preactionText: 我是玩家
-preactionLink: /player/
+# actionText: 开始查看开发文档
+# actionLink: /moddev/
+# preactionText: 我是玩家
+# preactionLink: /player/
 
 toggleBtn: 0
 
@@ -68,8 +68,6 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 ---
 
 <br/>
-<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
-<br/>
 <a-alert type="error" message="DokiMod 新版文档正在编写，目前内容仍需回炉重造，请稍安勿躁。" ></a-alert>
 <br/>
 <a-alert type="warning">
@@ -87,6 +85,6 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
   </span>
 </a-alert>
 
-文档制作进度：
+文档 2.0 制作进度：
 
-<a-progress :percent="1" :stroke-color="{'0%': '#fa82b6', '100%': '#fa4694',}" />
+<a-progress :percent="2.1" :stroke-color="{'0%': '#fa82b6', '100%': '#fa4694',}" />
