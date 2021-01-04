@@ -25,7 +25,7 @@ module.exports = {
       docsRepo: 'imgradeone/DDMTCN-Docs',
       docsDir: 'docs',
       docsBranch: 'master',
-      editLinks: true,
+      editLinks: false,
       smoothScroll: true,
       editLinkText: '前往 GitHub 编辑此页面',
       lastUpdated: '上次更新于',
