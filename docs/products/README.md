@@ -47,7 +47,7 @@ sidebar: false
       </a-col>
       <a-col :span="8">
         <a-card hoverable>
-          <img slot="cover" alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png"/>
+          <img slot="cover" alt="example" src="https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_class.png"/>
           <a-card-meta title="Europe Street beat">
             <template slot="description">
                 www.instagram.com
@@ -57,7 +57,7 @@ sidebar: false
       </a-col>
       <a-col :span="8">
         <a-card hoverable>
-          <img slot="cover" alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png"/>
+          <img slot="cover" alt="example" src="https://cdn.jsdelivr.net/gh/DokiMod/dokimodcn-assets@master/bg_class.png"/>
           <a-card-meta title="Europe Street beat">
             <template slot="description">
                 www.instagram.com
