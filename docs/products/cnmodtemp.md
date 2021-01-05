@@ -1,6 +1,6 @@
 ---
 title: DDLC 中文 Mod 模板
-sidebar: False
+sidebar: false
 ---
 
 <!-- <template>
@@ -36,3 +36,5 @@ export default {
   },
 };
 </script>
+
+来尝试一下
