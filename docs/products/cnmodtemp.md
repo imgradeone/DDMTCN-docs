@@ -15,7 +15,7 @@ sidebar: false
 
 <center>简单的中文 DDLC Mod 模板</center>
 
-<template>
+<!-- <template>
   <div>
     <a-menu v-model="current" mode="horizontal">
       <a-menu-item key="intro">
@@ -35,6 +35,6 @@ export default {
     };
   },
 };
-</script>
+</script> -->
 
 来尝试一下
