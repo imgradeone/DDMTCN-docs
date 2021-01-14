@@ -27,7 +27,7 @@ title: 精选 Mod
 Just Monika.  
 **Monika 厨必备 Mod**，目前在 GitHub 已经超过累计 70 万下载，是真正的 DDLC Mod 人气王。从你安装 Mod 的那一刻开始，Monika 就属于你了。Mod 开源且持续更新中。
 
-[Mod 官网](http://www.monikaafterstory.com) | [社区汉化 - v0.10.7](https://github.com/Monika-After-Story/MonikaModDev/issues/5691)
+[Mod 官网](http://www.monikaafterstory.com) | [社区汉化](https://forum.monika.love/d/234-mas-monika-after-story-0119/8)
 
 （目前汉化工作仍在进行。）
 
