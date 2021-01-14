@@ -37,7 +37,7 @@ footerWrap:
     link: https://antdocs.seeyoz.cn
     details: DokiMod 的新主题哦
   - title: MTR
-    link: https://mtrstatic.ga
+    link: https://blog.mtr.pub/
     details: 永远滴神
   - title: 赞助
     link: https://dokimod.cn/donate.html
