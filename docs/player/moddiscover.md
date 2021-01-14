@@ -44,3 +44,9 @@ Reddit 作为类似贴吧的、火热的外国社区，DDLCMods 区也会有许�
 这里只有由 imgradeone 自己挑的 Mod，但很好玩。
 
 [前往 >](/mods/)
+
+## DDLC Chinese Mods
+
+是由社区用户 MTR 搭建的中文 DDLC Mod 网站。
+
+[点此访问](https://mods.monika.love/)
