@@ -68,7 +68,7 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 ---
 
 <br/>
-<a-alert type="error" message="DokiMod 新版文档正在编写，目前全部内容仍需回炉重造，请稍安勿躁。" ></a-alert>
+<a-alert type="error" message="DokiMod 新版文档正在编写，目前全部内容仍需回炉重造，请稍安勿躁。（当然如果有有能 Man 帮忙写文档就好了（（（" ></a-alert>
 <br/>
 <a-alert type="warning">
   <span slot="message">
@@ -87,4 +87,4 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 
 文档 2.0 制作进度：
 
-<a-progress :percent="2.1" :stroke-color="{'0%': '#fa82b6', '100%': '#fa4694',}" />
+<a-progress :percent="2.1" :stroke-color="{'0%': '#ff99be', '100%': '#fa4694',}" />
