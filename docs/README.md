@@ -89,7 +89,7 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 <a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
 
 ::: tip
-DokiMod 新版文档正在编写，您可以去 [https://next.dokimod.cn](https://next.dokimod.cn) 看看新版网站。
+DokiMod 正在进行完全重置，您可以去 [https://revolution.dokimod.cn](https://revolution.dokimod.cn) 看看新版网站。
 :::
 
 ::: warning 警告！！
