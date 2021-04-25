@@ -53,7 +53,7 @@ module.exports = {
             { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
           ]
         },
-        { text: '文档 2.0', link: 'https://next.dokimod.cn' },
+        { text: 'Revolution', link: 'https://revolution.dokimod.cn' },
         {
           text: 'GitHub',
           items: [
