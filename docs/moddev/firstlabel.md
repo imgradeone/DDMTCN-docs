@@ -5,6 +5,8 @@ autoPrev: prepare
 
 ::: warning 提示
 本页面仍在施工，故内容不完整。
+
+**旧版网站的内容已经严重失去时效性，请您转到全新的 Revolution 站点。**
 :::
 
 # 第一个 Label

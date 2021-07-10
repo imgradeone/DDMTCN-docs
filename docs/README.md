@@ -90,6 +90,8 @@ footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 
 
 ::: tip
 DokiMod 正在进行完全重置，您可以去 [https://revolution.dokimod.cn](https://revolution.dokimod.cn) 看看新版网站。
+
+**旧版网站的内容已经严重失去时效性，请您转到全新的 Revolution 站点。**
 :::
 
 ::: warning 警告！！

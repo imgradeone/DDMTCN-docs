@@ -8,6 +8,8 @@ sidebarDepth: 2
 
 ::: warning 提示
 本页面仍在施工，故内容不完整。
+
+**旧版网站的内容已经严重失去时效性，请您转到全新的 Revolution 站点。**
 :::
 
 背景音乐是视觉小说的灵魂，而 DDLC 预置的 BGM 也是一个不错的资源库。您可以在 DDLC Mod 里调用任何 DDLC 原版 BGM。

@@ -5,6 +5,10 @@ autoGroup-3: 进阶内容
 
 # 参数帮助与模板额外内容
 
+::: warning 提示
+**旧版网站的内容已经严重失去时效性，请您转到全新的 Revolution 站点。**
+:::
+
 ## label showpoem
 
 ```renpy
