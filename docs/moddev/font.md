@@ -15,12 +15,12 @@ autoPrev: README
 
 对应支持中文模板 v1.2 及 v1.3 版本，v1.0 ~ v1.1 更新后需重新下载字体包。特此感谢这些中文字体的作者。
 
-## 阿里巴巴 / 阿里巴巴普惠体
-单独下载：https://ics.alibaba.com/project/Hn8mXx 或者 https://alibabafont.taobao.com/ （均需要登录淘宝帐号）
+## 华为 / HarmonyOS Sans
+单独下载：https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
 
-使用字重：Regular
+使用字重：SC Regular
 
-文件存放于 `game/mod_assets/font/alipuhuireg.ttf`
+文件存放于 `game/mod_assets/font/harmonyossans.ttf`
 
 用途：游戏文字主要字体，替代原有的 Aller 字体
 

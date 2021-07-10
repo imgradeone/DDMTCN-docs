@@ -11,20 +11,22 @@ autoPrev: font
 
 您可以下载懒人专用字体包，下载完后将字体解压到 `game/mod_assets/font` 目录下即可。
 
-当前版本字体包：v1.2
+当前版本字体包：v2.0
 
-对应支持 v1.2 - v1.3 版本，v1.0 - v1.1 更新后需重新下载字体包。
+对应支持 v2.0-dev 及旧版的 v1.4.0 版本。
 
-您可以从以下地方获取 Mod 模板的中文字体包（v1.2）：
+您可以从以下地方获取 Mod 模板的中文字体包（v2.0）：
+
+## 推荐
+
+[imgradeone 的私人网盘（Revocloud）](https://rc.g1san.cn/YRfW) | [Monika Cloud（由 MTR 提供支持）](https://pan.monika.love/s/945CL)
 
 ## 中国大陆地区用户
 
-[奶牛快传（链接会于 2021-09-24 过期）](https://imgradeone.cowtransfer.com/s/3852906fbdf246) | [蓝奏云](https://imgradeone.lanzous.com/iwq7wec3j7a) | [百度网盘 提取码 hi2j](https://pan.baidu.com/s/1WiO1qD8cI8U1YTEVeVrkuQ)
+[奶牛快传（链接会于 2021-09-24 过期）](https://imgradeone.cowtransfer.com/s/b0b47be65c3643) | [蓝奏云](https://imgradeone.lanzoui.com/iy7mJr82hfe) | [百度网盘 提取码 4z0y](https://pan.baidu.com/s/1aeJy0rbE_llC3QCPj_Mplw) 
 
 由于实际体验差，且有盈利嫌疑，从现在起，DokiMod 不提供城通网盘下载链接。
 
 ## 其他地区用户
 
-[MediaFire](http://www.mediafire.com/file/6juwd7h0venrg7f/font%25282%2529.zip/file) | [Google 云端硬盘](https://drive.google.com/file/d/1LClyzgxq-les-N5egLXm1aK7ULATDpex/view?usp=sharing) | [GitHub](https://github.com/imgradeone/DDMTCN-fontpack/releases/download/v1.2/fontv12.zip)
-
-即将在 SourceForge 上传字体包。
+暂时未能成功上传。
