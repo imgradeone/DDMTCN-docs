@@ -48,6 +48,10 @@ DDLC 使用 Ren'Py 这款 awesome 的视觉小说引擎进行开发，因此制�
 
 接下来的教程以中文模板为主。
 
+::: danger 警告！
+旧版中文模板已经彻底停止维护。您现在应该尝试 [新版中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese-next)。
+:::
+
 [中文模板](https://github.com/imgradeone/DDLCModTemplete-Chinese/releases) | [原版英文模板](https://github.com/Monika-After-Story/DDLCModTemplate) | [改良版英文模板](https://github.com/GanstaKingofSA/DDLCModTemplate2.0)
 
 将模板文件解压到刚刚你解压 Ren'Py SDK 的文件夹里，或者在你指定的工程目录里。（默认情况下，是 `renpy-6.99.12.4-sdk`）

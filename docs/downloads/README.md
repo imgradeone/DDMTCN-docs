@@ -24,18 +24,6 @@ sidebar: false
 
 <a href="https://www.renpy.org/release/6.99.12"><a-button type="primary" size="large" shape="round" icon="download">下载 Ren'Py SDK</a-button></a>
 
-## Excel2DDLCMod
-
-::: warning 提示
-Excel2DDLCMod 仍处于实验状态，甚至无法正常使用，所以暂不提供下载。
-:::
-
-## DDLC Mod
-
-听说你想耍 Mod？可以啊！
-
-<a href="/mods/"><a-button type="primary" size="large" shape="round" icon="right" ghost>去看看 Mod</a-button></a>
-
 ## DDLC 游戏本体
 
 不下 DDLC 又怎么愉快地玩耍 / 开发 Mod 呢（

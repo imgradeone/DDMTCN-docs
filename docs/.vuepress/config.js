@@ -48,19 +48,10 @@ module.exports = {
             { text: '整合页', link: '/downloads/' },
             { text: '中文 Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest' },
             { text: '中文 Mod 模板 - 字体包', link: '/moddev/fontdl.html' },
-            { text: 'DDLC Mod', link: '/mods/' },
-            { text: 'Excel2DDLCMod', link: 'https://github.com/DokiMod/Excel2DDLCMod' },
             { text: 'DDLC 游戏本体', link: 'https://ddlc.moe/' }
           ]
         },
         { text: 'Revolution', link: 'https://revolution.dokimod.cn' },
-        {
-          text: 'GitHub',
-          items: [
-            { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
-            { text: '文档', link: 'https://github.com/imgradeone/DDMTCN-Docs' }
-          ]
-        }
       ],
     }
     

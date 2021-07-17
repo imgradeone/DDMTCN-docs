@@ -52,9 +52,8 @@ footerWrap:
     link: https://t.me/DokiModCNGroup
 - headline: 开发必看 / 必下载系列
   items:
-  - title: Ren'Py SDK 6.99.12
-    link: https://www.renpy.org/release/6.99.12
-    details: 永远滴神
+  - title: Ren'Py SDK
+    link: https://www.renpy.org/
   - title: DDLC 本体
     link: https://ddlc.moe
     details: 不下本体的话还开发个锤子（
@@ -78,29 +77,23 @@ footerWrap:
   - title: Monika!
     link: https://twitter.com/lilmonix3
     details: Just Monika!!!
-  - title: DDLC 官方周边商店（搬家中）
-    link: https://ddlcstore.com
-  - title: For Fans By Fans x DDLC
-    link: https://www.forfansbyfans.com/fandom/doki-doki-literature-club.html
-    details: 粉丝周边，官方授权
+  - title: DDLC 官方周边商店
+    link: https://ddlc.plus/merch
 footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages | powered by VuePress
 ---
 
-<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese/releases/latest" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">立刻下载中文模板</a-button></a> <a href="/extensions/"><a-button size="large" shape="round">素材 / 补丁插件库</a-button></a>
+<a href="https://github.com/imgradeone/DDLCModTemplate-Chinese-next" target="_blank"><a-button type="primary" icon="download" size="large" shape="round">获取 DDLC 中文 Mod 模板</a-button></a>
 
 ::: tip
 DokiMod 正在进行完全重置，您可以去 [https://revolution.dokimod.cn](https://revolution.dokimod.cn) 看看新版网站。
-
-**旧版网站的内容已经严重失去时效性，请您转到全新的 Revolution 站点。**
 :::
 
 ::: warning 警告！！
+**旧版网站的内容已经严重失去时效性，请您转到全新的 [Revolution 站点](https://revolution.dokimod.cn)。**
 
 本站包含对 DDLC 的剧透，请通关原版 DDLC 后再访问本站。您可以访问 [DDLC.moe](https://ddlc.moe) 下载 DDLC，或前往 Steam 搜索 `Doki Doki Literature Club!` 下载
 
 **本站文档还在搭建当中**，且由于作者不怎么会使用 VuePress，所以...
-
-同时近期中国国家网信办进行“清朗”行动，故本站也会对一些内容进行整改。
 :::
 
 ::: danger 严正（？）声明！！！
