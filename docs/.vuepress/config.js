@@ -31,7 +31,7 @@ module.exports = {
       lastUpdated: '上次更新于',
       logo: '/logo_128x128.png',
       nav: [
-        { text: '主页', link: '/' },
+        { text: '主页', link: '/home.html' },
         { text: '玩家指引', link: '/player/' },
         { text: '开发者', link: '/moddev/' },
         { text: '插件', link: '/extensions/' },
