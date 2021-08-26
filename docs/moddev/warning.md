@@ -41,12 +41,7 @@ sidebarDepth: 2
 
 Team Salvato 曾经[在博客上说](http://teamsalvato.com/blog/regarding-ddlc-on-mobile-devices/)，之前 **上架到商店的** 非官方 Android 版的移植已经给他们造成了许多麻烦。有一堆人去问这些移植版是否有授权，还有人向 Team Salvato 官方反馈这些非官方移植版的 bug，这无形中加重了原作的负担。（此处不讨论营利问题）
 
-请不要把 Mod 上架到任何游戏商店。如果你需要让更多人了解你的 Mod，你可以考虑：
-
-1. [去中文非官方 DDLC 论坛宣传你的 Mod](https://ddlc.icu)
-1. [在 DDLCMods.com 提交原创 Mod 收录申请](http://ddlcmods.com/mod-submission-form/)
-1. [问 MTR，让 MTR 帮你托管你的 Mod](https://mtrcdn.tk)
-1. and more...
+请不要把 Mod 上架到任何游戏商店。
 
 ## 资源使用
 
