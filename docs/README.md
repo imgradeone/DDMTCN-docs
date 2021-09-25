@@ -2,7 +2,7 @@
 home: true
 
 title: DokiMod
-heroImage: /logo_vertical.png
+heroImage: /logo-new.png
 
 heroText: 欢迎来到 DokiMod
 tagline: 请选择您要查看的文档版本。
